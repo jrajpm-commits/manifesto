@@ -1,0 +1,480 @@
+{
+  "stories": [
+    {
+      "id": 1,
+      "slideNumber": 1,
+      "slideTitleEN": "MISSION 2026",
+      "slideTitleTH": "MISSION 2026",
+      "lineItem": "Vision Statement",
+      "bulletPoints": "A cleaner, more beautiful, and efficiently managed Mumbai.",
+      "story": "A weary citizen, disillusioned by years of neglect, becomes the unlikely leader of a city-wide 'Clean & Green' movement, inspiring millions.",
+      "status": "draft",
+      "media": {
+        "backgroundImages": [],
+        "audioFiles": [],
+        "otherMedia": []
+      },
+      "videoSettings": {
+        "selectedBackground": "",
+        "selectedAudio": "",
+        "videoDuration": 30,
+        "textColor": "#FFFFFF",
+        "textSize": 40,
+        "textFont": "Arial",
+        "textAnimation": "fade",
+        "audioLoop": "trim"
+      },
+      "productionNotes": "",
+      "videoCreated": false,
+      "createdDate": "2024-01-10",
+      "lastModified": "2024-01-10"
+    },
+    {
+      "id": 2,
+      "slideNumber": 1,
+      "slideTitleEN": "MISSION 2026",
+      "slideTitleTH": "MISSION 2026",
+      "lineItem": "Slogan",
+      "bulletPoints": "\"Together, let's make Mumbai clean, green, and shining.\"",
+      "story": "A rival politician scoffs at the slogan as empty words, but is forced into a humbling public service project that makes him believe in it.",
+      "status": "ready",
+      "media": {
+        "backgroundImages": [],
+        "audioFiles": [],
+        "otherMedia": []
+      },
+      "videoSettings": {
+        "selectedBackground": "",
+        "selectedAudio": "",
+        "videoDuration": 30,
+        "textColor": "#FFFFFF",
+        "textSize": 40,
+        "textFont": "Arial",
+        "textAnimation": "typewriter",
+        "audioLoop": "trim"
+      },
+      "productionNotes": "",
+      "videoCreated": false,
+      "createdDate": "2024-01-10",
+      "lastModified": "2024-01-10"
+    },
+    {
+      "id": 3,
+      "slideNumber": 3,
+      "slideTitleEN": "Water Supply / Social Justice",
+      "slideTitleTH": "ผิษฐศ - งบประมาณ",
+      "lineItem": "Annual water supply project plans",
+      "bulletPoints": "Annual water supply project plans & budget allocations from 2023-2029.",
+      "story": "A drought hits. The official who fast-tracked rainwater harvesting becomes a hero in one neighborhood, while another area without it faces a crisis, creating social tension.",
+      "status": "draft",
+      "media": {
+        "backgroundImages": [],
+        "audioFiles": [],
+        "otherMedia": []
+      },
+      "videoSettings": {
+        "selectedBackground": "",
+        "selectedAudio": "",
+        "videoDuration": 45,
+        "textColor": "#FFFFFF",
+        "textSize": 40,
+        "textFont": "Arial",
+        "textAnimation": "slide",
+        "audioLoop": "trim"
+      },
+      "productionNotes": "Need drought imagery and tension-building music",
+      "videoCreated": false,
+      "createdDate": "2024-01-10",
+      "lastModified": "2024-01-10"
+    },
+    {
+      "id": 4,
+      "slideNumber": 3,
+      "slideTitleEN": "Water Supply / Social Justice",
+      "slideTitleTH": "ผิษฐศ - งบประมาณ",
+      "lineItem": "Rainwater Harvesting initiatives promoted",
+      "bulletPoints": "Rainwater Harvesting initiatives promoted.",
+      "story": "A single mother fights a Kafkaesque bureaucracy to access a social justice fund, her journey exposing both corruption and dedicated civil servants.",
+      "status": "draft",
+      "media": {
+        "backgroundImages": [],
+        "audioFiles": [],
+        "otherMedia": []
+      },
+      "videoSettings": {
+        "selectedBackground": "",
+        "selectedAudio": "",
+        "videoDuration": 40,
+        "textColor": "#FFFFFF",
+        "textSize": 40,
+        "textFont": "Arial",
+        "textAnimation": "fade",
+        "audioLoop": "trim"
+      },
+      "productionNotes": "Focus on social justice theme",
+      "videoCreated": false,
+      "createdDate": "2024-01-10",
+      "lastModified": "2024-01-10"
+    },
+    {
+      "id": 5,
+      "slideNumber": 3,
+      "slideTitleEN": "Water Supply / Social Justice",
+      "slideTitleTH": "ผิษฐศ - งบประมาณ",
+      "lineItem": "Annual budget allocations for Social Justice schemes",
+      "bulletPoints": "Annual budget allocations for Social Justice schemes (2025-2032).",
+      "story": "The allocated rupee travels through corrupt hands until reaching a struggling family, transforming their lives and restoring faith in the system.",
+      "status": "draft",
+      "media": {
+        "backgroundImages": [],
+        "audioFiles": [],
+        "otherMedia": []
+      },
+      "videoSettings": {
+        "selectedBackground": "",
+        "selectedAudio": "",
+        "videoDuration": 35,
+        "textColor": "#FFFFFF",
+        "textSize": 40,
+        "textFont": "Arial",
+        "textAnimation": "typewriter",
+        "audioLoop": "trim"
+      },
+      "productionNotes": "Budget and social impact story",
+      "videoCreated": false,
+      "createdDate": "2024-01-10",
+      "lastModified": "2024-01-10"
+    },
+    {
+      "id": 6,
+      "slideNumber": 4,
+      "slideTitleEN": "Education Department",
+      "slideTitleTH": "JiaRai - Riaru yuri",
+      "lineItem": "Modernize BMC schools with smart classes & AI tools",
+      "bulletPoints": "Modernize BMC schools with smart classes & AI tools.",
+      "story": "In a crowded municipal school, a shy student discovers an AI learning module, unlocking genius-level potential and challenging the system's expectations.",
+      "status": "ready",
+      "media": {
+        "backgroundImages": [],
+        "audioFiles": [],
+        "otherMedia": []
+      },
+      "videoSettings": {
+        "selectedBackground": "",
+        "selectedAudio": "",
+        "videoDuration": 45,
+        "textColor": "#FFFFFF",
+        "textSize": 40,
+        "textFont": "Arial",
+        "textAnimation": "zoom",
+        "audioLoop": "trim"
+      },
+      "productionNotes": "Need futuristic tech visuals",
+      "videoCreated": false,
+      "createdDate": "2024-01-10",
+      "lastModified": "2024-01-10"
+    },
+    {
+      "id": 7,
+      "slideNumber": 4,
+      "slideTitleEN": "Education Department",
+      "slideTitleTH": "JiaRai - Riaru yuri",
+      "lineItem": "Focus on holistic child development, mental health, and activity-based learning",
+      "bulletPoints": "Focus on holistic child development, mental health, and activity-based learning.",
+      "story": "A student guidance counselor uncovers a hidden talent in a troubled 'problem student,' steering them from dropout to district-level sports champion.",
+      "status": "ready",
+      "media": {
+        "backgroundImages": [],
+        "audioFiles": [],
+        "otherMedia": []
+      },
+      "videoSettings": {
+        "selectedBackground": "",
+        "selectedAudio": "",
+        "videoDuration": 40,
+        "textColor": "#FFFFFF",
+        "textSize": 40,
+        "textFont": "Arial",
+        "textAnimation": "slide",
+        "audioLoop": "trim"
+      },
+      "productionNotes": "Transformational education story",
+      "videoCreated": false,
+      "createdDate": "2024-01-10",
+      "lastModified": "2024-01-10"
+    },
+    {
+      "id": 8,
+      "slideNumber": 5,
+      "slideTitleEN": "Solid Waste Management",
+      "slideTitleTH": "ภายในอเนก - กิตติ",
+      "lineItem": "Achieve 100% waste segregation at source",
+      "bulletPoints": "Achieve 100% waste segregation at source.",
+      "story": "A feisty elderly woman takes on her entire apartment building to enforce waste segregation, leading to comedic conflicts but ultimately transforming the community.",
+      "status": "produced",
+      "media": {
+        "backgroundImages": [],
+        "audioFiles": [],
+        "otherMedia": []
+      },
+      "videoSettings": {
+        "selectedBackground": "",
+        "selectedAudio": "",
+        "videoDuration": 40,
+        "textColor": "#FFFFFF",
+        "textSize": 40,
+        "textFont": "Arial",
+        "textAnimation": "fade",
+        "audioLoop": "trim"
+      },
+      "productionNotes": "Video produced on 2023-10-15",
+      "videoCreated": true,
+      "createdDate": "2024-01-10",
+      "lastModified": "2024-01-10"
+    },
+    {
+      "id": 9,
+      "slideNumber": 5,
+      "slideTitleEN": "Solid Waste Management",
+      "slideTitleTH": "ภายในอเนก - กิตติ",
+      "lineItem": "Expand Waste-to-Energy plants",
+      "bulletPoints": "Expand Waste-to-Energy plants.",
+      "story": "A man who scavenges a living from the giant landfill fears its closure due to the new WtE plant, forcing him to choose between protesting progress or finding a new purpose.",
+      "status": "ready",
+      "media": {
+        "backgroundImages": [],
+        "audioFiles": [],
+        "otherMedia": []
+      },
+      "videoSettings": {
+        "selectedBackground": "",
+        "selectedAudio": "",
+        "videoDuration": 45,
+        "textColor": "#FFFFFF",
+        "textSize": 40,
+        "textFont": "Arial",
+        "textAnimation": "typewriter",
+        "audioLoop": "trim"
+      },
+      "productionNotes": "Environmental and social conflict",
+      "videoCreated": false,
+      "createdDate": "2024-01-10",
+      "lastModified": "2024-01-10"
+    },
+    {
+      "id": 10,
+      "slideNumber": 7,
+      "slideTitleEN": "Roads Department / Pollution Free Mumbai",
+      "slideTitleTH": "Șășa - Șuvara țea și șeș",
+      "lineItem": "Improve roads, footpaths, and traffic systems",
+      "bulletPoints": "Improve roads, footpaths, and traffic systems.",
+      "story": "A cynical taxi driver documents every pothole on his route. His viral blog accidentally becomes the city's most reliable road repair tracker, embarrassing the authorities into action.",
+      "status": "ready",
+      "media": {
+        "backgroundImages": [],
+        "audioFiles": [],
+        "otherMedia": []
+      },
+      "videoSettings": {
+        "selectedBackground": "",
+        "selectedAudio": "",
+        "videoDuration": 35,
+        "textColor": "#FFFFFF",
+        "textSize": 40,
+        "textFont": "Arial",
+        "textAnimation": "slide",
+        "audioLoop": "trim"
+      },
+      "productionNotes": "Urban infrastructure story",
+      "videoCreated": false,
+      "createdDate": "2024-01-10",
+      "lastModified": "2024-01-10"
+    },
+    {
+      "id": 11,
+      "slideNumber": 7,
+      "slideTitleEN": "Roads Department / Pollution Free Mumbai",
+      "slideTitleTH": "Șășa - Șuvara țea și șeș",
+      "lineItem": "Promote electric vehicles (EVs) and infrastructure",
+      "bulletPoints": "Promote electric vehicles (EVs) and infrastructure.",
+      "story": "A young auto-rickshaw driver risks everything to buy an electric vehicle, facing resistance from his diesel-dependent union and becoming a pioneer in the process.",
+      "status": "ready",
+      "media": {
+        "backgroundImages": [],
+        "audioFiles": [],
+        "otherMedia": []
+      },
+      "videoSettings": {
+        "selectedBackground": "",
+        "selectedAudio": "",
+        "videoDuration": 40,
+        "textColor": "#FFFFFF",
+        "textSize": 40,
+        "textFont": "Arial",
+        "textAnimation": "zoom",
+        "audioLoop": "trim"
+      },
+      "productionNotes": "Green transportation theme",
+      "videoCreated": false,
+      "createdDate": "2024-01-10",
+      "lastModified": "2024-01-10"
+    },
+    {
+      "id": 12,
+      "slideNumber": 9,
+      "slideTitleEN": "Gardens / Fire Brigade / BEST (Bus)",
+      "slideTitleTH": "กิจภา - ใส่พูชา ขาลี",
+      "lineItem": "Install CCTV, improve safety & lighting",
+      "bulletPoints": "Install CCTV, improve safety & lighting.",
+      "story": "A newly installed CCTV in a park accidentally captures a clue to a cold case, turning the humble garden keeper into an amateur sleuth.",
+      "status": "draft",
+      "media": {
+        "backgroundImages": [],
+        "audioFiles": [],
+        "otherMedia": []
+      },
+      "videoSettings": {
+        "selectedBackground": "",
+        "selectedAudio": "",
+        "videoDuration": 35,
+        "textColor": "#FFFFFF",
+        "textSize": 40,
+        "textFont": "Arial",
+        "textAnimation": "fade",
+        "audioLoop": "trim"
+      },
+      "productionNotes": "Mystery and community safety",
+      "videoCreated": false,
+      "createdDate": "2024-01-10",
+      "lastModified": "2024-01-10"
+    },
+    {
+      "id": 13,
+      "slideNumber": 9,
+      "slideTitleEN": "Gardens / Fire Brigade / BEST (Bus)",
+      "slideTitleTH": "กิจภา - ใส่พูชา ขาลี",
+      "lineItem": "Develop theme-based gardens (Butterfly, Medicinal)",
+      "bulletPoints": "Develop theme-based gardens (Butterfly, Medicinal).",
+      "story": "A retired botanist creates a medicinal garden that becomes a community healing space, teaching urban residents about traditional remedies and nature's pharmacy.",
+      "status": "draft",
+      "media": {
+        "backgroundImages": [],
+        "audioFiles": [],
+        "otherMedia": []
+      },
+      "videoSettings": {
+        "selectedBackground": "",
+        "selectedAudio": "",
+        "videoDuration": 40,
+        "textColor": "#FFFFFF",
+        "textSize": 40,
+        "textFont": "Arial",
+        "textAnimation": "slide",
+        "audioLoop": "trim"
+      },
+      "productionNotes": "Nature and healing theme",
+      "videoCreated": false,
+      "createdDate": "2024-01-10",
+      "lastModified": "2024-01-10"
+    },
+    {
+      "id": 14,
+      "slideNumber": 9,
+      "slideTitleEN": "Gardens / Fire Brigade / BEST (Bus)",
+      "slideTitleTH": "กิจภา - ใส่พูชา ขาลี",
+      "lineItem": "Increase fire stations & modernize equipment",
+      "bulletPoints": "Increase fire stations & modernize equipment.",
+      "story": "A new fire station in a congested slum area is tested on its first day when a massive fire breaks out, showcasing the heroism and challenges of urban firefighting.",
+      "status": "ready",
+      "media": {
+        "backgroundImages": [],
+        "audioFiles": [],
+        "otherMedia": []
+      },
+      "videoSettings": {
+        "selectedBackground": "",
+        "selectedAudio": "",
+        "videoDuration": 45,
+        "textColor": "#FFFFFF",
+        "textSize": 40,
+        "textFont": "Arial",
+        "textAnimation": "zoom",
+        "audioLoop": "trim"
+      },
+      "productionNotes": "Emergency response drama",
+      "videoCreated": false,
+      "createdDate": "2024-01-10",
+      "lastModified": "2024-01-10"
+    },
+    {
+      "id": 15,
+      "slideNumber": 9,
+      "slideTitleEN": "Gardens / Fire Brigade / BEST (Bus)",
+      "slideTitleTH": "กิจภา - ใส่พูชา ขาลี",
+      "lineItem": "Augment electric bus fleet",
+      "bulletPoints": "Augment electric bus fleet.",
+      "story": "A veteran bus driver, loved for his iconic old diesel bus, reluctantly trains on the new silent electric bus, grappling with change and legacy.",
+      "status": "draft",
+      "media": {
+        "backgroundImages": [],
+        "audioFiles": [],
+        "otherMedia": []
+      },
+      "videoSettings": {
+        "selectedBackground": "",
+        "selectedAudio": "",
+        "videoDuration": 35,
+        "textColor": "#FFFFFF",
+        "textSize": 40,
+        "textFont": "Arial",
+        "textAnimation": "fade",
+        "audioLoop": "trim"
+      },
+      "productionNotes": "Transportation modernization",
+      "videoCreated": false,
+      "createdDate": "2024-01-10",
+      "lastModified": "2024-01-10"
+    },
+    {
+      "id": 16,
+      "slideNumber": 12,
+      "slideTitleEN": "MISSION 2026 (Graphic)",
+      "slideTitleTH": "MISSION 2026",
+      "lineItem": "Visual title slide",
+      "bulletPoints": "Visual title slide: 'MISSION 2026 BMC facing man, facing car'",
+      "story": "The stark, bold 'MISSION 2026' poster becomes a symbol. For some, it's a beacon of hope plastered on construction hoardings; for others, it's a target for graffiti and protest, representing the city's divided soul.",
+      "status": "draft",
+      "media": {
+        "backgroundImages": [],
+        "audioFiles": [],
+        "otherMedia": []
+      },
+      "videoSettings": {
+        "selectedBackground": "",
+        "selectedAudio": "",
+        "videoDuration": 25,
+        "textColor": "#FFFFFF",
+        "textSize": 40,
+        "textFont": "Arial",
+        "textAnimation": "typewriter",
+        "audioLoop": "trim"
+      },
+      "productionNotes": "Symbolic representation of urban aspirations",
+      "videoCreated": false,
+      "createdDate": "2024-01-10",
+      "lastModified": "2024-01-10"
+    }
+  ],
+  "metadata": {
+    "projectName": "BMC Mission 2026 Stories",
+    "totalStories": 16,
+    "createdDate": "2024-01-10",
+    "lastModified": "2024-01-10",
+    "version": "1.0",
+    "statusSummary": {
+      "draft": 8,
+      "ready": 7,
+      "produced": 1
+    }
+  }
+}

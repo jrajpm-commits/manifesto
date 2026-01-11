@@ -1,0 +1,238 @@
+{
+  "stories": [
+    {
+      "id": 40001,
+      "slideNumber": 4,
+      "slideTitleEN": "Crematoriums",
+      "lineItem": "Dignity & Respect",
+      "story": "<b>आज:</b> अंतिम संस्काराच्या वेळी गैरसोय, गोंधळ आणि असंवेदनशील व्यवस्था.<br><br><span style='color:#ea580c'>सन्मान आणि सुरक्षित जीवनासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> सन्मान, प्रतिष्ठा आणि संवेदनशीलतेने चालणाऱ्या सुविधा.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 40002,
+      "slideNumber": 4,
+      "slideTitleEN": "Crematoriums",
+      "lineItem": "New Facilities",
+      "story": "<b>आज:</b> लोकसंख्या वाढली पण सुविधा अपुऱ्या.<br><br><span style='color:#ea580c'>सन्मान आणि सुरक्षित जीवनासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> गरजेनुसार नवीन व आधुनिक स्मशानभूमी सुविधा.",
+      "status": "ready",
+      "videoDuration": 14,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 40003,
+      "slideNumber": 4,
+      "slideTitleEN": "Crematoriums",
+      "lineItem": "Maintenance Budget",
+      "story": "<b>आज:</b> देखभाल व दुरुस्तीला पुरेसा निधी नाही.<br><br><span style='color:#ea580c'>सन्मान आणि सुरक्षित जीवनासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> वाढीव अर्थसंकल्पामुळे स्वच्छ व कार्यक्षम व्यवस्था.",
+      "status": "ready",
+      "videoDuration": 14,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 40004,
+      "slideNumber": 4,
+      "slideTitleEN": "Crematoriums",
+      "lineItem": "Electric Cremation",
+      "story": "<b>आज:</b> जुनी पद्धत, प्रदूषण आणि वेळखाऊ प्रक्रिया.<br><br><span style='color:#ea580c'>सन्मान आणि सुरक्षित जीवनासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> आधुनिक विद्युतदाहिनी प्रणाली सर्वत्र.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 40005,
+      "slideNumber": 4,
+      "slideTitleEN": "Crematoriums",
+      "lineItem": "Death Certificate Time",
+      "story": "<b>आज:</b> मृत्यू प्रमाणपत्रासाठी १८ महिने प्रतीक्षा.<br><br><span style='color:#ea580c'>सन्मान आणि सुरक्षित जीवनासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> ९ महिन्यांत पारदर्शक व जलद प्रक्रिया.",
+      "status": "ready",
+      "videoDuration": 16,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 40006,
+      "slideNumber": 4,
+      "slideTitleEN": "Housing",
+      "lineItem": "Redevelopment FSI",
+      "story": "<b>आज:</b> अरुंद रस्त्यांमुळे पुनर्विकास अडतो.<br><br><span style='color:#ea580c'>सन्मान आणि सुरक्षित जीवनासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> ९ मीटरपेक्षा कमी रस्त्यांनाही मुख्य रस्त्यांइतकी FSI.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 40007,
+      "slideNumber": 4,
+      "slideTitleEN": "Housing",
+      "lineItem": "Cluster Redevelopment",
+      "story": "<b>आज:</b> मोठ्या भूखंडाशिवाय पुनर्विकास शक्य नाही.<br><br><span style='color:#ea580c'>सन्मान आणि सुरक्षित जीवनासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> ३००० चौ.मी. पर्यायामुळे क्लस्टर पुनर्विकास सुलभ.",
+      "status": "ready",
+      "videoDuration": 14,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 40008,
+      "slideNumber": 4,
+      "slideTitleEN": "Housing",
+      "lineItem": "Koliwada & Gaothan",
+      "story": "<b>आज:</b> कोळीवाडा व गावठाण विकास धोरणाचा अभाव.<br><br><span style='color:#ea580c'>सन्मान आणि सुरक्षित जीवनासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> विशेष धोरणामुळे स्थानिक ओळख जपून विकास.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 40009,
+      "slideNumber": 4,
+      "slideTitleEN": "Housing",
+      "lineItem": "Marathi Housing Right",
+      "story": "<b>आज:</b> मराठी कुटुंबांना मुंबईत घर मिळणे कठीण.<br><br><span style='color:#ea580c'>सन्मान आणि सुरक्षित जीवनासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> महानगरपालिकेच्या जमिनीवर नियोजनबद्ध गृहप्रकल्प.",
+      "status": "ready",
+      "videoDuration": 16,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    }
+  ]
+}

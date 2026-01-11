@@ -1,0 +1,148 @@
+{
+    "stories": [
+        {
+            "id": 101,
+            "slideNumber": 1,
+            "slideTitleEN": "MISSION 2026",
+            "lineItem": "Vision - Slum Transformation",
+            "story": "आज: दीपक खुली नालियों और गंदगी के बीच जीने को मजबूर है। बदलाव के लिए हमें चुनें। 2030 तक: उसे पक्की सड़क और सफाई मिलेगी। हम उसे सम्मान से जीने का हक देंगे।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 102,
+            "slideNumber": 1,
+            "slideTitleEN": "MISSION 2026",
+            "lineItem": "Vision - Global City",
+            "story": "आज: प्रिया को खिड़की से सिर्फ धुंध और प्रदूषण दिखता है। स्वच्छ हवा के लिए हमें वोट दें। 2030 तक: आसमान साफ होगा और मुंबई दुनिया के बड़े शहरों को टक्कर देगी।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 103,
+            "slideNumber": 1,
+            "slideTitleEN": "MISSION 2026",
+            "lineItem": "Vision - Trust Restored",
+            "story": "आज: खान साहब कचरे के ढेर से निराश हैं। बदलाव के लिए हमें चुनें। 2030 तक: कचरा गाड़ी रोज़ समय पर आएगी। हम आपके वोट की कीमत चुकाएंगे।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 104,
+            "slideNumber": 1,
+            "slideTitleEN": "MISSION 2026",
+            "lineItem": "Vision - Youth Power",
+            "story": "आज: युवा निराश हैं। उनके भविष्य के लिए हमें चुनें। 2030 तक: वे बीएमसी के साथ मिलकर काम करेंगे और शहर की तस्वीर बदल देंगे।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 105,
+            "slideNumber": 1,
+            "slideTitleEN": "MISSION 2026",
+            "lineItem": "Vision - Healthy Childhood",
+            "story": "आज: प्रदूषण के कारण आरव बीमार पड़ता है। स्वस्थ बचपन के लिए हमें वोट दें। 2030 तक: कड़े नियमों से हवा साफ होगी और बच्चे बाहर खेल सकेंगे।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 301,
+            "slideNumber": 3,
+            "slideTitleEN": "Water Supply",
+            "lineItem": "Water - No Tanker Mafia",
+            "story": "आज: सुनीता अपनी कमाई टैंकर माफिया को देती है। इसे रोकने के लिए हमें चुनें। 2030 तक: नई पाइपलाइन से 24 घंटे साफ पानी आएगा और उसकी बचत होगी।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 302,
+            "slideNumber": 3,
+            "slideTitleEN": "Water Supply",
+            "lineItem": "Water - Rainwater Harvesting",
+            "story": "आज: सोसाइटी पानी को तरसती है। जल सुरक्षा के लिए हमें वोट दें। 2030 तक: रेनवाटर हार्वेस्टिंग से वे पानी के मामले में आत्मनिर्भर होंगे।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 303,
+            "slideNumber": 3,
+            "slideTitleEN": "Social Justice",
+            "lineItem": "Social - Widow Pension",
+            "story": "आज: रुक्मिणी को पेंशन के लिए रिश्वत देनी पड़ती है। भ्रष्टाचार मिटाने के लिए हमें चुनें। 2030 तक: पैसा सीधे उनके बैंक खाते में आएगा।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 401,
+            "slideNumber": 4,
+            "slideTitleEN": "Education",
+            "lineItem": "Education - Digital India",
+            "story": "आज: बच्चों ने कभी कंप्यूटर नहीं देखा। उज्ज्वल भविष्य के लिए हमें चुनें। 2030 तक: वे टैबलेट पर कोडिंग सीखेंगे। हम अमीर-गरीब की खाई भर देंगे।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 402,
+            "slideNumber": 4,
+            "slideTitleEN": "Education",
+            "lineItem": "Education - Sports",
+            "story": "आज: सुविधाओं की कमी से प्रतिभा दम तोड़ रही है। बदलाव के लिए हमें वोट दें। 2030 तक: कविता सिंथेटिक ट्रैक पर दौड़ेगी और गोल्ड मेडल लाएगी।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 501,
+            "slideNumber": 5,
+            "slideTitleEN": "Solid Waste",
+            "lineItem": "Waste - Clean Streets",
+            "story": "आज: कचरे के ढेर से बीमारियाँ फैल रही हैं। स्वच्छ शहर के लिए हमें चुनें। 2030 तक: शहर कचरा मुक्त होगा और लोग वहां बैठ सकेंगे।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 502,
+            "slideNumber": 5,
+            "slideTitleEN": "Solid Waste",
+            "lineItem": "Waste - Dignity of Labor",
+            "story": "आज: सुरेश गंदगी में काम करता है, न सुरक्षा न सम्मान। न्याय के लिए हमें वोट दें। 2030 तक: वह वर्दी पहनकर सम्मान से काम करेगा।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 701,
+            "slideNumber": 7,
+            "slideTitleEN": "Roads",
+            "lineItem": "Roads - Pothole Free",
+            "story": "आज: रमेश गड्ढों वाली सड़कों पर कमर तोड़ सफर करता है। अच्छी सड़कों के लिए हमें चुनें। 2030 तक: सड़कें गड्ढा-मुक्त होंगी और सफर आसान होगा।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 702,
+            "slideNumber": 7,
+            "slideTitleEN": "Pollution",
+            "lineItem": "Pollution - EV Auto",
+            "story": "आज: ऑटो चालक ईंधन के खर्चे से परेशान है। प्रगति के लिए हमें वोट दें। 2030 तक: इलेक्ट्रिक रिक्शा से वह ज्यादा कमाएगा और हवा साफ रखेगा।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 901,
+            "slideNumber": 9,
+            "slideTitleEN": "Amenities",
+            "lineItem": "Gardens - Women Safety",
+            "story": "आज: अंधेरी सड़कों पर महिलाओं को डर लगता है। सुरक्षा के लिए हमें चुनें। 2030 तक: नई लाइटें और सीसीटीवी होंगे, महिलाएं निडर होकर चल सकेंगी।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 902,
+            "slideNumber": 9,
+            "slideTitleEN": "Amenities",
+            "lineItem": "BEST - AC Bus",
+            "story": "आज: बस में भीड़ और गर्मी से लोग परेशान हैं। बेहतर सफर के लिए हमें वोट दें। 2030 तक: ठंडी एसी बसें होंगी और सफर आरामदायक होगा।",
+            "status": "ready",
+            "videoDuration": 15
+        }
+    ]
+}

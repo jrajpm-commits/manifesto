@@ -1,0 +1,316 @@
+{
+  "stories": [
+    {
+      "id": 60001,
+      "slideNumber": 6,
+      "slideTitleEN": "Public Spaces",
+      "lineItem": "Basic Amenities in Parks",
+      "story": "<b>आज:</b> उद्यानांमध्ये स्वच्छतागृहे, सुरक्षा आणि सुविधा अपुऱ्या.<br><br><span style='color:#ea580c'>सुरक्षित आणि सुसज्ज सार्वजनिक सेवांसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> CCTV, स्वच्छतागृहे आणि मूलभूत सुविधांनी सुसज्ज उद्याने.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 60002,
+      "slideNumber": 6,
+      "slideTitleEN": "Public Spaces",
+      "lineItem": "Transparent Maintenance",
+      "story": "<b>आज:</b> देखभाल कामात पारदर्शकतेचा अभाव.<br><br><span style='color:#ea580c'>सुरक्षित आणि सुसज्ज सार्वजनिक सेवांसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> पारदर्शक प्रणालीमुळे नियमित व दर्जेदार देखभाल.",
+      "status": "ready",
+      "videoDuration": 14,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 60003,
+      "slideNumber": 6,
+      "slideTitleEN": "Public Spaces",
+      "lineItem": "Botanical Gardens",
+      "story": "<b>आज:</b> हिरवळीच्या जागा मर्यादित आणि दुर्लक्षित.<br><br><span style='color:#ea580c'>सुरक्षित आणि सुसज्ज सार्वजनिक सेवांसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> प्रत्येक वॉर्डमध्ये एक बोटॅनिकल गार्डन.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 60004,
+      "slideNumber": 6,
+      "slideTitleEN": "Public Spaces",
+      "lineItem": "No Privatization of Parks",
+      "story": "<b>आज:</b> सार्वजनिक उद्याने खाजगी हातात जाण्याची भीती.<br><br><span style='color:#ea580c'>सुरक्षित आणि सुसज्ज सार्वजनिक सेवांसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> कोणतेही BMC उद्यान खाजगी संस्थेला दिले जाणार नाही.",
+      "status": "ready",
+      "videoDuration": 14,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 60005,
+      "slideNumber": 6,
+      "slideTitleEN": "Public Spaces",
+      "lineItem": "Tree Trimming Service",
+      "story": "<b>आज:</b> खासगी सोसायट्यांना वृक्ष छाटणीसाठी अडचणी.<br><br><span style='color:#ea580c'>सुरक्षित आणि सुसज्ज सार्वजनिक सेवांसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> मोफत वृक्ष छाटणी सेवेने सुरक्षित परिसर.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 60006,
+      "slideNumber": 6,
+      "slideTitleEN": "Public Spaces",
+      "lineItem": "Sports Complex",
+      "story": "<b>आज:</b> क्रीडा सुविधा अपुऱ्या असल्याने युवक वंचित.<br><br><span style='color:#ea580c'>सुरक्षित आणि सुसज्ज सार्वजनिक सेवांसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> प्रत्येक वॉर्डमध्ये आधुनिक क्रीडा संकुल.",
+      "status": "ready",
+      "videoDuration": 16,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 60007,
+      "slideNumber": 6,
+      "slideTitleEN": "Fire Brigade",
+      "lineItem": "Modern Fire Tenders",
+      "story": "<b>आज:</b> उंच इमारतींमध्ये आग लागल्यास साधने अपुरी.<br><br><span style='color:#ea580c'>सुरक्षित आणि सुसज्ज सार्वजनिक सेवांसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> आधुनिक फायर टेंडर्स व विशेष यंत्रणा.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 60008,
+      "slideNumber": 6,
+      "slideTitleEN": "Fire Brigade",
+      "lineItem": "Pending Recruitment",
+      "story": "<b>आज:</b> मनुष्यबळ अपुरे असल्याने प्रतिसाद मंद.<br><br><span style='color:#ea580c'>सुरक्षित आणि सुसज्ज सार्वजनिक सेवांसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> सर्व प्रलंबित भरती प्रक्रिया पूर्ण.",
+      "status": "ready",
+      "videoDuration": 14,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 60009,
+      "slideNumber": 6,
+      "slideTitleEN": "Fire Brigade",
+      "lineItem": "Mini Fire Stations",
+      "story": "<b>आज:</b> दाट लोकवस्तीमध्ये मदत उशिरा पोहोचते.<br><br><span style='color:#ea580c'>सुरक्षित आणि सुसज्ज सार्वजनिक सेवांसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> मिनी फायर स्टेशनमुळे जलद प्रतिसाद.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 60010,
+      "slideNumber": 6,
+      "slideTitleEN": "Fire Brigade",
+      "lineItem": "Increase Fire Stations",
+      "story": "<b>आज:</b> अग्निशमन केंद्रांची संख्या अपुरी.<br><br><span style='color:#ea580c'>सुरक्षित आणि सुसज्ज सार्वजनिक सेवांसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> प्रमुख केंद्रांची संख्या वाढवली जाईल.",
+      "status": "ready",
+      "videoDuration": 14,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 60011,
+      "slideNumber": 6,
+      "slideTitleEN": "Fire Brigade",
+      "lineItem": "High-rise Firefighting",
+      "story": "<b>आज:</b> उंच इमारतींमध्ये आग विझवण्याची मर्यादा.<br><br><span style='color:#ea580c'>सुरक्षित आणि सुसज्ज सार्वजनिक सेवांसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> १०० मजल्यांपर्यंत आग विझवण्याची क्षमता.",
+      "status": "ready",
+      "videoDuration": 16,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 60012,
+      "slideNumber": 6,
+      "slideTitleEN": "Fire Brigade",
+      "lineItem": "Mandatory Fire Audit",
+      "story": "<b>आज:</b> अग्निसुरक्षा ऑडिटकडे दुर्लक्ष होते.<br><br><span style='color:#ea580c'>सुरक्षित आणि सुसज्ज सार्वजनिक सेवांसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> दरवर्षी सक्तीचे अग्निसुरक्षा ऑडिट.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    }
+  ]
+}

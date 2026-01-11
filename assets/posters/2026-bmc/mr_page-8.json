@@ -1,0 +1,160 @@
+{
+  "stories": [
+    {
+      "id": 80001,
+      "slideNumber": 8,
+      "slideTitleEN": "Electricity",
+      "lineItem": "No Privatization via Smart Meters",
+      "story": "<b>आज:</b> स्मार्ट मीटरच्या नावाखाली खाजगीकरणाची भीती.<br><br><span style='color:#ea580c'>सुरक्षित आणि परवडणाऱ्या वीजेसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> वीज व्यवस्था सार्वजनिक नियंत्रणात आणि नागरिककेंद्री.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 80002,
+      "slideNumber": 8,
+      "slideTitleEN": "Electricity",
+      "lineItem": "Underground Cabling",
+      "story": "<b>आज:</b> धोकादायक उघड्या तारांमुळे अपघात होतात.<br><br><span style='color:#ea580c'>सुरक्षित आणि परवडणाऱ्या वीजेसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> जुन्या तारांचे भूमिगत नेटवर्क, अपघातमुक्त वीज.",
+      "status": "ready",
+      "videoDuration": 16,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 80003,
+      "slideNumber": 8,
+      "slideTitleEN": "Electricity",
+      "lineItem": "LED Street Lighting",
+      "story": "<b>आज:</b> अंधारामुळे रस्त्यांवर असुरक्षितता.<br><br><span style='color:#ea580c'>सुरक्षित आणि परवडणाऱ्या वीजेसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> संपूर्ण मुंबईत LED स्ट्रीटलाइट्स.",
+      "status": "ready",
+      "videoDuration": 14,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 80004,
+      "slideNumber": 8,
+      "slideTitleEN": "Electricity",
+      "lineItem": "Lower Power Bills",
+      "story": "<b>आज:</b> वीज बिल वाढत चालले आहे.<br><br><span style='color:#ea580c'>सुरक्षित आणि परवडणाऱ्या वीजेसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> Waste-to-Energy प्रकल्पांमुळे वीज बिल कमी.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 80005,
+      "slideNumber": 8,
+      "slideTitleEN": "Electricity",
+      "lineItem": "Har Gali Roshan",
+      "story": "<b>आज:</b> अनेक वस्त्या अंधारात.<br><br><span style='color:#ea580c'>सुरक्षित आणि परवडणाऱ्या वीजेसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> ‘हर गली रोशन, हर घर उजाला’ अभियान.",
+      "status": "ready",
+      "videoDuration": 14,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 80006,
+      "slideNumber": 8,
+      "slideTitleEN": "Electricity",
+      "lineItem": "Employment in BEST Power",
+      "story": "<b>आज:</b> वीज विभागात रोजगार संधी मर्यादित.<br><br><span style='color:#ea580c'>सुरक्षित आणि परवडणाऱ्या वीजेसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> BEST वीज विभागात नवीन रोजगारनिर्मिती.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    }
+  ]
+}

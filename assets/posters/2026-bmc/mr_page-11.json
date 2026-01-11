@@ -1,0 +1,214 @@
+{
+  "stories": [
+    {
+      "id": 110001,
+      "slideNumber": 11,
+      "slideTitleEN": "Smart Parking",
+      "lineItem": "Safe Parking Infrastructure",
+      "story": "<b>आज:</b> रस्त्यांवर गाड्या उभ्या राहिल्याने वाहतूक कोंडी आणि भांडणे होतात.<br><br><span style='color:#ea580c'>नियोजनबद्ध आणि मानवी शहरासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> सुरक्षित, नियोजनबद्ध आणि मोठ्या प्रमाणावर पार्किंग सुविधा.",
+      "status": "ready",
+      "videoDuration": 15,
+      "mediaGuidance": {
+        "musicStyle": "European minimal piano, low tempo, neutral civic tone",
+        "visualDirection": "Aerial shots of congested streets → organized parking structures, signage, calm traffic flow",
+        "referenceSearchHints": [
+          "search: european minimal piano instrumental documentary",
+          "search: city parking transformation before after",
+          "search: urban mobility documentary b-roll"
+        ]
+      },
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "problem-solution"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "policy-civic"
+        }
+      }
+    },
+    {
+      "id": 110002,
+      "slideNumber": 11,
+      "slideTitleEN": "Smart Parking",
+      "lineItem": "New Parking Facilities",
+      "story": "<b>आज:</b> शहरात नियोजित वाहनतळांचा अभाव.<br><br><span style='color:#ea580c'>नियोजनबद्ध आणि मानवी शहरासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> संपूर्ण शहरात नवीन वाहनतळांची उभारणी.",
+      "status": "ready",
+      "videoDuration": 14,
+      "mediaGuidance": {
+        "musicStyle": "Soft ambient strings with light rhythmic pulse",
+        "visualDirection": "Time-lapse of cars circling → smooth entry into structured parking",
+        "referenceSearchHints": [
+          "search: ambient cinematic background music no vocals",
+          "search: smart parking system explainer video",
+          "search: urban infrastructure time lapse"
+        ]
+      },
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "problem-solution"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "policy-civic"
+        }
+      }
+    },
+    {
+      "id": 110003,
+      "slideNumber": 11,
+      "slideTitleEN": "Smart Parking",
+      "lineItem": "Audit & Survey",
+      "story": "<b>आज:</b> विद्यमान वाहनतळांचा वापर आणि स्थिती अज्ञात.<br><br><span style='color:#ea580c'>नियोजनबद्ध आणि मानवी शहरासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> सर्व वाहनतळांचे सर्वेक्षण व ऑडिट, पारदर्शक व्यवस्थापन.",
+      "status": "ready",
+      "videoDuration": 15,
+      "mediaGuidance": {
+        "musicStyle": "Documentary underscore, subtle electronic pad",
+        "visualDirection": "Data overlays, maps, checklists, officials inspecting parking sites",
+        "referenceSearchHints": [
+          "search: documentary data visualization city",
+          "search: civic audit infrastructure footage",
+          "search: smart city data overlay video"
+        ]
+      },
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "problem-solution"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "policy-civic"
+        }
+      }
+    },
+    {
+      "id": 110004,
+      "slideNumber": 11,
+      "slideTitleEN": "Hawking Policy",
+      "lineItem": "Street Vendors Act Implementation",
+      "story": "<b>आज:</b> कायद्याअभावी फेरीवाल्यांवर अन्याय आणि गोंधळ.<br><br><span style='color:#ea580c'>नियोजनबद्ध आणि मानवी शहरासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> Street Vendors Act, 2014 नुसार स्पष्ट आणि न्याय्य अंमलबजावणी.",
+      "status": "ready",
+      "videoDuration": 16,
+      "mediaGuidance": {
+        "musicStyle": "Indian folk-neutral instrumental, soft flute and tanpura",
+        "visualDirection": "Street vendors working → organized hawking zones with signage",
+        "referenceSearchHints": [
+          "search: indian folk instrumental background soft",
+          "search: street vendor documentary india",
+          "search: urban informal economy b-roll"
+        ]
+      },
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "problem-solution"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "policy-civic"
+        }
+      }
+    },
+    {
+      "id": 110005,
+      "slideNumber": 11,
+      "slideTitleEN": "Hawking Policy",
+      "lineItem": "Hawking Zones",
+      "story": "<b>आज:</b> पुनर्वसन न झाल्याने संघर्ष आणि अतिक्रमण.<br><br><span style='color:#ea580c'>नियोजनबद्ध आणि मानवी शहरासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> पात्र फेरीवाल्यांचे नियोजित हॉकिंग झोनमध्ये पुनर्वसन.",
+      "status": "ready",
+      "videoDuration": 15,
+      "mediaGuidance": {
+        "musicStyle": "Warm acoustic instrumental, human-centric tone",
+        "visualDirection": "Faces of vendors → marked zones → smooth pedestrian movement",
+        "referenceSearchHints": [
+          "search: human centered documentary music instrumental",
+          "search: vendor rehabilitation urban planning",
+          "search: pedestrian friendly street market"
+        ]
+      },
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "problem-solution"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "policy-civic"
+        }
+      }
+    },
+    {
+      "id": 110006,
+      "slideNumber": 11,
+      "slideTitleEN": "Hawking Policy",
+      "lineItem": "Non-Hawking Zones",
+      "story": "<b>आज:</b> सार्वजनिक जागांवर सतत वाद आणि अडथळे.<br><br><span style='color:#ea580c'>नियोजनबद्ध आणि मानवी शहरासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> इतर भाग नॉन-हॉकिंग झोन घोषित करून सुव्यवस्था.",
+      "status": "ready",
+      "videoDuration": 14,
+      "mediaGuidance": {
+        "musicStyle": "Minimal rhythmic ambient, clarity-focused",
+        "visualDirection": "Clear walkways, signage, enforcement without conflict",
+        "referenceSearchHints": [
+          "search: minimalist ambient background music",
+          "search: pedestrian zone city planning",
+          "search: urban order public space footage"
+        ]
+      },
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "problem-solution"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "policy-civic"
+        }
+      }
+    }
+  ]
+}

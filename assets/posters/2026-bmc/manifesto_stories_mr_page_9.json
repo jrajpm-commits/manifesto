@@ -1,0 +1,49 @@
+{
+    "stories": [
+        {
+            "id": 901,
+            "slideNumber": 9,
+            "slideTitleEN": "Roads - Potholes",
+            "lineItem": "Pothole Free",
+            "story": "<b>आज:</b> पावसात रस्त्यांचे तळे होते, खड्ड्यांमुळे मणक्याचे आजार होतात。<br><br><span style='color: #ea580c'>मजबूत रस्त्यांसाठी आम्हाला निवडून द्या。</span><br><br><b>2030 पर्यंत:</b> संपूर्ण मुंबईत खड्डेमुक्त सिमेंटचे रस्ते असतील。",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 902,
+            "slideNumber": 9,
+            "slideTitleEN": "Roads - Corruption",
+            "lineItem": "Contractor Action",
+            "story": "<b>आज:</b> कंत्राटदार निकृष्ट काम करतात आणि जनतेचा पैसा लुटतात。<br><br><span style='color: #ea580c'>पारदर्शकतेसाठी आम्हाला मत द्या。</span><br><br><b>2030 पर्यंत:</b> भ्रष्ट कंत्राटदारांवर कठोर कारवाई होईल आणि त्यांना ब्लॅकलिस्ट केले जाईल。",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 903,
+            "slideNumber": 9,
+            "slideTitleEN": "Roads - Footpaths",
+            "lineItem": "Safe Footpaths",
+            "story": "<b>आज:</b> ज्येष्ठ नागरिक आणि मुले तुटलेल्या फुटपाथवरून चालायला घाबरतात。<br><br><span style='color: #ea580c'>सुरक्षेसाठी आम्हाला निवडून द्या。</span><br><br><b>2030 पर्यंत:</b> प्रत्येक रस्त्यावर रुंद आणि सुरक्षित फुटपाथ असतील。",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 904,
+            "slideNumber": 9,
+            "slideTitleEN": "Roads - Traffic",
+            "lineItem": "Traffic Widening",
+            "story": "<b>आज:</b> अरुंद रस्त्यांमुळे तासनतास ट्रॅफिक जॅममध्ये वाया जातात。<br><br><span style='color: #ea580c'>वेगासाठी आम्हाला मत द्या。</span><br><br><b>2030 पर्यंत:</b> रस्त्यांचे रुंदीकरण होईल, वाहतूक सुरळीत चालेल。",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 905,
+            "slideNumber": 9,
+            "slideTitleEN": "Roads - Technology",
+            "lineItem": "Modern Tech",
+            "story": "<b>आज:</b> जुन्या तंत्रज्ञानामुळे रस्ते एका वर्षात उखडतात。<br><br><span style='color: #ea580c'>विकासासाठी आम्हाला निवडून द्या。</span><br><br><b>2030 पर्यंत:</b> आधुनिक तंत्रज्ञानाने बनलेले रस्ते वर्षानुवर्षे टिकतील。",
+            "status": "ready",
+            "videoDuration": 15
+        }
+    ]
+}

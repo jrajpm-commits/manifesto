@@ -1,0 +1,212 @@
+{
+  "stories": [
+    {
+      "id": 90001,
+      "slideNumber": 9,
+      "slideTitleEN": "Roads",
+      "lineItem": "Pothole Free Mumbai",
+      "story": "<b>आज:</b> पावसाळ्यात रस्ते खड्ड्यांनी भरलेले असतात, अपघात होतात.<br><br><span style='color:#ea580c'>सुरक्षित आणि अपघातमुक्त मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> संपूर्ण मुंबईत खड्डेमुक्त, मजबूत रस्ते.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 90002,
+      "slideNumber": 9,
+      "slideTitleEN": "Roads",
+      "lineItem": "Concrete Roads",
+      "story": "<b>आज:</b> डांबरी रस्ते वारंवार खराब होतात.<br><br><span style='color:#ea580c'>सुरक्षित आणि अपघातमुक्त मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> सर्व प्रमुख व उपरस्त्यांचे काँक्रीटीकरण.",
+      "status": "ready",
+      "videoDuration": 14,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 90003,
+      "slideNumber": 9,
+      "slideTitleEN": "Roads",
+      "lineItem": "Action on Contractors",
+      "story": "<b>आज:</b> निकृष्ट काम करणाऱ्यांवर कारवाई होत नाही.<br><br><span style='color:#ea580c'>सुरक्षित आणि अपघातमुक्त मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> कंत्राटदारांवर कठोर कारवाई आणि काळी यादी.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 90004,
+      "slideNumber": 9,
+      "slideTitleEN": "Roads",
+      "lineItem": "Corruption Control",
+      "story": "<b>आज:</b> रस्ते कामात भ्रष्टाचार सर्वसामान्यांना त्रास देतो.<br><br><span style='color:#ea580c'>सुरक्षित आणि अपघातमुक्त मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> पारदर्शक यंत्रणेमुळे भ्रष्टाचारावर नियंत्रण.",
+      "status": "ready",
+      "videoDuration": 14,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 90005,
+      "slideNumber": 9,
+      "slideTitleEN": "Roads",
+      "lineItem": "Pedestrian Safety",
+      "story": "<b>आज:</b> फुटपाथ तुटलेले, पादचारी असुरक्षित.<br><br><span style='color:#ea580c'>सुरक्षित आणि अपघातमुक्त मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> मजबूत फुटपाथमुळे पादचाऱ्यांची सुरक्षितता.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 90006,
+      "slideNumber": 9,
+      "slideTitleEN": "Roads",
+      "lineItem": "Reduce Traffic Congestion",
+      "story": "<b>आज:</b> वाहतूक कोंडीमुळे वेळ आणि इंधन वाया जाते.<br><br><span style='color:#ea580c'>सुरक्षित आणि अपघातमुक्त मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> रस्त्यांचे रुंदीकरण करून वाहतूक कोंडी कमी.",
+      "status": "ready",
+      "videoDuration": 16,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 90007,
+      "slideNumber": 9,
+      "slideTitleEN": "Roads",
+      "lineItem": "Modern Technology",
+      "story": "<b>आज:</b> जुनी पद्धत, निकृष्ट नियोजन.<br><br><span style='color:#ea580c'>सुरक्षित आणि अपघातमुक्त मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> आधुनिक तंत्रज्ञानाचा वापर करून दर्जेदार रस्ते.",
+      "status": "ready",
+      "videoDuration": 14,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 90008,
+      "slideNumber": 9,
+      "slideTitleEN": "Roads",
+      "lineItem": "STP Completion",
+      "story": "<b>आज:</b> प्रदूषण वाढते कारण प्रकल्प वेळेत पूर्ण होत नाहीत.<br><br><span style='color:#ea580c'>सुरक्षित आणि अपघातमुक्त मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> STP प्रकल्प वेळेत पूर्ण करून प्रदूषण कमी.",
+      "status": "ready",
+      "videoDuration": 16,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+    "stories": [
+        {
+            "id": 701,
+            "slideNumber": 7,
+            "slideTitleEN": "Roads",
+            "lineItem": "Roads - Pothole Free",
+            "story": "<b>आज:</b> खड्ड्यांमुळे रमेशला वेदना होतात。<br><br><span style='color: #ea580c'>चांगल्या रस्त्यांसाठी आम्हाला निवडून द्या。</span><br><br><b>2030 मध्ये:</b> रस्ते खड्डेमुक्त असतील आणि प्रवास सुखकर होईल。",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 702,
+            "slideNumber": 7,
+            "slideTitleEN": "Pollution",
+            "lineItem": "Pollution - EV Auto",
+            "story": "<b>आज:</b> इंधनाचा खर्च आणि प्रदूषित हवा。<br><br><span style='color: #ea580c'>विकासासाठी आम्हाला मत द्या。</span><br><br><b>2030 मध्ये:</b> इलेक्ट्रिक रिक्षामुळे कमाई वाढेल आणि हवा स्वच्छ राहील。",
+            "status": "ready",
+            "videoDuration": 15
+        }
+    ]
+}

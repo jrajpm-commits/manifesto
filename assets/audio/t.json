@@ -1,0 +1,33 @@
+ffmpeg -y -hide_banner -loglevel error \
+-i jaijaimaharashtramaza.webm \
+-map_metadata -1 -map_chapters -1 \
+-vn \
+-af "atempo=1.05, \
+     highpass=f=80, \
+     lowpass=f=16000, \
+     equalizer=f=120:width_type=o:width=1:g=2.5, \
+     equalizer=f=3000:width_type=o:width=1:g=3, \
+     compand=attacks=0.3:decays=0.8:points=-80/-80|-20/-8|0/-3" \
+-c:a libmp3lame \
+-b:a 192k \
+-ar 48000 \
+-map 0:a:0 \
+-metadata title="Passionate Audio Master" \
+-metadata artist="Studio" \
+-metadata album="Clean Production" \
+-metadata comment="Sanitized, re-authored, tempo-adjusted" \
+-write_xing 0 \
+-id3v2_version 3 \
+jaijaimaharashtramaza.mp3
+
+
+Social Welfare Narratives:Unheard Voices from Maharashtra's Health Disparity Zones #mots.ai #rajmots
+
+Voices from the Edge: Documenting Health Injustice in Maharashtra
+
+"Imagine a world where accessing basic healthcare depends on your postcode, not your need. In Maharashtra's remote villages, this isn't fiction – it's daily reality. Today, we're pulling back the curtain on the unheard voices from these health disparity zones, revealing the stark human impact of social welfare gaps. What sacrifices are people making just to survive?"
+
+"Meet Radha, a mother in rural Maharashtra, who walked 20 kilometers with her sick child, only to find the nearest clinic closed. Her story isn't unique; it's a whisper from thousands enduring unimaginable struggles for healthcare access. Join us as we journey into the heart of these communities, giving a platform to the resilient spirits fighting for a healthier tomorrow, against all odds."
+
+Shocking Statistic/Fact 
+"Did you know that for millions in Maharashtra, a simple fever can become a life-threatening crisis due to inadequate health infrastructure? We're diving deep into the stark realities of social welfare deserts, where essential services are critically scarce. Prepare to confront the hidden truths of health inequality and hear directly from those living on the forgotten fringes of progress."

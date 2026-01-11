@@ -1,0 +1,31 @@
+{
+    "stories": [
+        {
+            "id": 301,
+            "slideNumber": 3,
+            "slideTitleEN": "Water Supply",
+            "lineItem": "24/7 Water",
+            "story": "<b>आज:</b> पानी की किल्लत और टैंकर माफिया का राज है।<br><br><span style='color: #ea580c'>जल सुरक्षा के लिए हमें चुनें।</span><br><br><b>2030 तक:</b> हर घर में 24 घंटे साफ पानी आएगा, टैंकर मुक्त मुंबई होगी।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 302,
+            "slideNumber": 3,
+            "slideTitleEN": "Water Supply",
+            "lineItem": "Rainwater Harvesting",
+            "story": "<b>आज:</b> बारिश का पानी बह जाता है और गर्मियों में सूखा पड़ता है।<br><br><span style='color: #ea580c'>समझदारी के लिए हमें वोट दें।</span><br><br><b>2030 तक:</b> रेनवाटर हार्वेस्टिंग से सोसायटियां पानी में आत्मनिर्भर होंगी।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 303,
+            "slideNumber": 3,
+            "slideTitleEN": "Social Justice",
+            "lineItem": "Direct Benefits",
+            "story": "<b>आज:</b> सरकारी योजनाओं का लाभ लेने के लिए दफ्तरों के चक्कर काटने पड़ते हैं।<br><br><span style='color: #ea580c'>न्याय के लिए हमें चुनें।</span><br><br><b>2030 तक:</b> टेक्नोलॉजी के जरिए मदद सीधे जरूरतमंद के खाते में पहुंचेगी।",
+            "status": "ready",
+            "videoDuration": 15
+        }
+    ]
+}

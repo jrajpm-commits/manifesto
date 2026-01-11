@@ -1,0 +1,49 @@
+{
+    "stories": [
+        {
+            "id": 901,
+            "slideNumber": 9,
+            "slideTitleEN": "Roads - Potholes",
+            "lineItem": "Pothole Free",
+            "story": "<b>आज:</b> हर बारिश में सड़कें तालाब बन जाती हैं, गड्ढों से कमर टूटती है।<br><br><span style='color: #ea580c'>मजबूत सड़कों के लिए हमें चुनें।</span><br><br><b>2030 तक:</b> पूरी मुंबई में गड्ढा-मुक्त कंक्रीट की सड़कें होंगी।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 902,
+            "slideNumber": 9,
+            "slideTitleEN": "Roads - Corruption",
+            "lineItem": "Contractor Action",
+            "story": "<b>आज:</b> ठेकेदार घटिया काम करते हैं और जनता का पैसा खाते हैं।<br><br><span style='color: #ea580c'>ईमानदारी के लिए हमें वोट दें।</span><br><br><b>2030 तक:</b> भ्रष्ट ठेकेदारों पर कठोर कार्रवाई होगी और ब्लैकलिस्ट किया जाएगा।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 903,
+            "slideNumber": 9,
+            "slideTitleEN": "Roads - Footpaths",
+            "lineItem": "Safe Footpaths",
+            "story": "<b>आज:</b> बुजुर्ग और बच्चे टूटे हुए फुटपाथ पर चलने से डरते हैं।<br><br><span style='color: #ea580c'>सुरक्षा के लिए हमें चुनें।</span><br><br><b>2030 तक:</b> हर सड़क पर चौड़े और सुरक्षित फुटपाथ होंगे।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 904,
+            "slideNumber": 9,
+            "slideTitleEN": "Roads - Traffic",
+            "lineItem": "Traffic Widening",
+            "story": "<b>आज:</b> संकरी सड़कों के कारण घंटों ट्रैफिक जाम में बर्बाद होते हैं।<br><br><span style='color: #ea580c'>रफ्तार के लिए हमें वोट दें।</span><br><br><b>2030 तक:</b> सड़कों का चौड़ीकरण होगा, ट्रैफिक मक्खन जैसा चलेगा।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 905,
+            "slideNumber": 9,
+            "slideTitleEN": "Roads - Technology",
+            "lineItem": "Modern Tech",
+            "story": "<b>आज:</b> पुरानी तकनीक से बनी सड़कें एक साल में उखड़ जाती हैं।<br><br><span style='color: #ea580c'>विकास के लिए हमें चुनें।</span><br><br><b>2030 तक:</b> आधुनिक तकनीक से बनी सड़कें सालों-साल चलेंगी।",
+            "status": "ready",
+            "videoDuration": 15
+        }
+    ]
+}

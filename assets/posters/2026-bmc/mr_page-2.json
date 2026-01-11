@@ -1,0 +1,420 @@
+{
+  "stories": [
+    {
+      "id": 20001,
+      "slideNumber": 2,
+      "slideTitleEN": "Health - Public Hospitals",
+      "lineItem": "No Privatization",
+      "story": "<b>आज:</b> खाजगीकरणाच्या भीतीमुळे उपचार महाग होतात आणि सर्वसामान्य रुग्ण दूर राहतात.<br><br><span style='color:#ea580c'>मजबूत सार्वजनिक आरोग्यासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> सर्व BMC रुग्णालये पूर्णपणे सार्वजनिक, परवडणारी आणि विश्वासार्ह असतील.",
+      "status": "ready",
+      "videoDuration": 14,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 20002,
+      "slideNumber": 2,
+      "slideTitleEN": "Health - Critical Care",
+      "lineItem": "Critical Care Capacity",
+      "story": "<b>आज:</b> क्रिटिकल केअर बेड कमी असल्याने आपत्कालीन उपचारात विलंब होतो.<br><br><span style='color:#ea580c'>मजबूत सार्वजनिक आरोग्यासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> प्रमुख सार्वजनिक क्रिटिकल केअर केंद्रांमुळे वेळेत जीव वाचतील.",
+      "status": "ready",
+      "videoDuration": 16,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 20003,
+      "slideNumber": 2,
+      "slideTitleEN": "Health - Universal Card",
+      "lineItem": "Free Health Card",
+      "story": "<b>आज:</b> उपचार आणि औषधांचा खर्च कुटुंबांचे बजेट मोडतो.<br><br><span style='color:#ea580c'>मजबूत सार्वजनिक आरोग्यासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> युनिव्हर्सल मोफत हेल्थ कार्डमुळे औषधे व उपचार मोफत मिळतील.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 20004,
+      "slideNumber": 2,
+      "slideTitleEN": "Health - Medicines",
+      "lineItem": "Free Medicines",
+      "story": "<b>आज:</b> औषधे परवडत नाहीत म्हणून उपचार अपूर्ण राहतात.<br><br><span style='color:#ea580c'>मजबूत सार्वजनिक आरोग्यासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> आवश्यक औषधे मोफत उपलब्ध असल्याने उपचार पूर्ण होतील.",
+      "status": "ready",
+      "videoDuration": 14,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 20005,
+      "slideNumber": 2,
+      "slideTitleEN": "Health - OPD",
+      "lineItem": "24x7 OPD",
+      "story": "<b>आज:</b> OPD वेळ मर्यादित असल्याने रांगा आणि गैरसोय.<br><br><span style='color:#ea580c'>मजबूत सार्वजनिक आरोग्यासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> अखंड OPD सेवेमुळे तपासणी सहज आणि वेळीच.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 20006,
+      "slideNumber": 2,
+      "slideTitleEN": "Health - Diagnostics",
+      "lineItem": "MRI/CT/Dialysis",
+      "story": "<b>आज:</b> MRI, CT, डायालिसिससाठी खासगी ठिकाणी जावे लागते.<br><br><span style='color:#ea580c'>मजबूत सार्वजनिक आरोग्यासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> BMC रुग्णालयांत सर्व तपासण्या व डायालिसिस उपलब्ध.",
+      "status": "ready",
+      "videoDuration": 16,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 20007,
+      "slideNumber": 2,
+      "slideTitleEN": "Health - Surgery",
+      "lineItem": "Affordable Surgeries",
+      "story": "<b>आज:</b> शस्त्रक्रिया महाग आणि प्रतीक्षा जास्त.<br><br><span style='color:#ea580c'>मजबूत सार्वजनिक आरोग्यासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> सवलतीच्या शस्त्रक्रियांमुळे उपचार परवडणारे.",
+      "status": "ready",
+      "videoDuration": 14,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 20008,
+      "slideNumber": 2,
+      "slideTitleEN": "Health - Beds",
+      "lineItem": "Real-time Bed Info",
+      "story": "<b>आज:</b> बेड उपलब्धतेची माहिती नसल्याने रुग्ण भटकतात.<br><br><span style='color:#ea580c'>मजबूत सार्वजनिक आरोग्यासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> रिअल-टाईम ऑनलाइन बेड माहितीसह त्वरित दाखल.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 20009,
+      "slideNumber": 2,
+      "slideTitleEN": "Health - Grievance",
+      "lineItem": "Hospital Grievance Cell",
+      "story": "<b>आज:</b> तक्रारींची दखल घेतली जात नाही.<br><br><span style='color:#ea580c'>मजबूत सार्वजनिक आरोग्यासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> प्रत्येक रुग्णालयात तक्रार निवारण कक्ष सक्रिय.",
+      "status": "ready",
+      "videoDuration": 14,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 20010,
+      "slideNumber": 2,
+      "slideTitleEN": "Health - Ambulance",
+      "lineItem": "Free Ambulance",
+      "story": "<b>आज:</b> आपत्कालीन रुग्णवाहिका उशिरा पोहोचते.<br><br><span style='color:#ea580c'>मजबूत सार्वजनिक आरोग्यासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> मोफत व वाढीव रुग्णवाहिका सेवेमुळे जलद प्रतिसाद.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 20011,
+      "slideNumber": 2,
+      "slideTitleEN": "Health - Neonatal",
+      "lineItem": "ICU-NICU & Incubators",
+      "story": "<b>आज:</b> नवजात बालकांसाठी सुविधा अपुऱ्या.<br><br><span style='color:#ea580c'>मजबूत सार्वजनिक आरोग्यासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> ICU-NICU क्षमता व इनक्युबेटर दुप्पट.",
+      "status": "ready",
+      "videoDuration": 16,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 20012,
+      "slideNumber": 2,
+      "slideTitleEN": "Health - Blood Bank",
+      "lineItem": "Modern Blood Banks",
+      "story": "<b>आज:</b> रक्ताची कमतरता जीवघेणी ठरते.<br><br><span style='color:#ea580c'>मजबूत सार्वजनिक आरोग्यासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> सुसज्ज रक्तपेढ्यांमुळे वेळेवर रक्त उपलब्ध.",
+      "status": "ready",
+      "videoDuration": 14,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 20013,
+      "slideNumber": 2,
+      "slideTitleEN": "Health - Mental Health",
+      "lineItem": "Mental Health Center",
+      "story": "<b>आज:</b> मानसिक आरोग्याकडे दुर्लक्ष होते.<br><br><span style='color:#ea580c'>मजबूत सार्वजनिक आरोग्यासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> सुसंगठित मानसिक आरोग्य केंद्रांमुळे आधार.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 20014,
+      "slideNumber": 2,
+      "slideTitleEN": "Health - Infrastructure",
+      "lineItem": "New Multispecialty Hospitals",
+      "story": "<b>आज:</b> रुग्णसंख्या वाढली पण रुग्णालये कमी.<br><br><span style='color:#ea580c'>मजबूत सार्वजनिक आरोग्यासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> दोन नवीन मल्टीस्पेशालिटी सार्वजनिक रुग्णालये.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 20015,
+      "slideNumber": 2,
+      "slideTitleEN": "Health - Modernization",
+      "lineItem": "Hospital Modernization",
+      "story": "<b>आज:</b> जुनी साधने व पायाभूत सुविधा.<br><br><span style='color:#ea580c'>मजबूत सार्वजनिक आरोग्यासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> आधुनिकीकरणामुळे दर्जेदार उपचार.",
+      "status": "ready",
+      "videoDuration": 14,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 20016,
+      "slideNumber": 2,
+      "slideTitleEN": "Health - Education",
+      "lineItem": "Global Medical Practices",
+      "story": "<b>आज:</b> वैद्यकीय प्रशिक्षण जुने पडले आहे.<br><br><span style='color:#ea580c'>मजबूत सार्वजनिक आरोग्यासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> परदेशातील आधुनिक शिक्षण पद्धतींचा अवलंब.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    }
+  ]
+}

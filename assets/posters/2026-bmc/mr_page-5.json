@@ -1,0 +1,186 @@
+{
+  "stories": [
+    {
+      "id": 50001,
+      "slideNumber": 5,
+      "slideTitleEN": "Women & Child Welfare",
+      "lineItem": "More Anganwadis",
+      "story": "<b>आज:</b> अनेक वस्त्यांमध्ये अंगणवाड्यांची संख्या अपुरी आहे.<br><br><span style='color:#ea580c'>महिला आणि बालकांच्या सुरक्षित भविष्यासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> अधिक अंगणवाड्यांमुळे बालकांना सुरक्षित आणि पोषक वातावरण.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 50002,
+      "slideNumber": 5,
+      "slideTitleEN": "Women & Child Welfare",
+      "lineItem": "Hirkani Kendra",
+      "story": "<b>आज:</b> स्तनपान व विश्रांतीसाठी महिलांना योग्य जागा नाही.<br><br><span style='color:#ea580c'>महिला आणि बालकांच्या सुरक्षित भविष्यासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> प्रत्येक वॉर्डमध्ये ‘हिरकणी कक्ष’ उपलब्ध.",
+      "status": "ready",
+      "videoDuration": 14,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 50003,
+      "slideNumber": 5,
+      "slideTitleEN": "Women & Child Welfare",
+      "lineItem": "Day Care Centers",
+      "story": "<b>आज:</b> काम करणाऱ्या महिलांना मुलांची काळजी घेणे कठीण.<br><br><span style='color:#ea580c'>महिला आणि बालकांच्या सुरक्षित भविष्यासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> डे-केअर केंद्रांमुळे महिलांना निर्धास्तपणे काम करता येईल.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 50004,
+      "slideNumber": 5,
+      "slideTitleEN": "Women & Child Welfare",
+      "lineItem": "Employment & Training",
+      "story": "<b>आज:</b> महिलांसाठी रोजगार व कौशल्य संधी मर्यादित.<br><br><span style='color:#ea580c'>महिला आणि बालकांच्या सुरक्षित भविष्यासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> प्रशिक्षण कार्यक्रमांमुळे आर्थिक स्वावलंबन.",
+      "status": "ready",
+      "videoDuration": 16,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 50005,
+      "slideNumber": 5,
+      "slideTitleEN": "Women & Child Welfare",
+      "lineItem": "Sanitary Pad Access",
+      "story": "<b>आज:</b> सॅनिटरी पॅड्स सहज उपलब्ध नसतात.<br><br><span style='color:#ea580c'>महिला आणि बालकांच्या सुरक्षित भविष्यासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> व्हेंडिंग मशिन्समुळे स्वच्छता आणि आरोग्य सुधारेल.",
+      "status": "ready",
+      "videoDuration": 14,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 50006,
+      "slideNumber": 5,
+      "slideTitleEN": "Women & Child Welfare",
+      "lineItem": "Gender Budget",
+      "story": "<b>आज:</b> महिलांसाठीचा बजेट अपुरा पडतो.<br><br><span style='color:#ea580c'>महिला आणि बालकांच्या सुरक्षित भविष्यासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> जेंडर बजेट वाढवून महिलाकेंद्रित योजना.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 50007,
+      "slideNumber": 5,
+      "slideTitleEN": "Women & Child Welfare",
+      "lineItem": "Safety at Tourist Places",
+      "story": "<b>आज:</b> पर्यटनस्थळांवर महिलांना असुरक्षितता जाणवते.<br><br><span style='color:#ea580c'>महिला आणि बालकांच्या सुरक्षित भविष्यासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> अधिक सुविधा व सुरक्षिततेमुळे निश्चिंत पर्यटन.",
+      "status": "ready",
+      "videoDuration": 16,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    }
+  ]
+}

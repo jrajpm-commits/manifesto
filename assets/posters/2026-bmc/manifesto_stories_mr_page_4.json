@@ -1,0 +1,31 @@
+{
+    "stories": [
+        {
+            "id": 401,
+            "slideNumber": 4,
+            "slideTitleEN": "Education",
+            "lineItem": "Smart Schools",
+            "story": "<b>आज:</b> पालिकेच्या शाळांची दुरवस्था आहे, मुले स्पर्धेत मागे पडत आहेत。<br><br><span style='color: #ea580c'>प्रगत शिक्षणासाठी आम्हाला निवडून द्या。</span><br><br><b>2030 पर्यंत:</b> प्रत्येक वर्ग डिजिटल असेल, मुले AI आणि कोडिंग शिकतील。",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 402,
+            "slideNumber": 4,
+            "slideTitleEN": "Education",
+            "lineItem": "Sports Infrastructure",
+            "story": "<b>आज:</b> खेळायला मैदाने नाहीत, खेळाडूंचे स्वप्न भंग पावत आहे。<br><br><span style='color: #ea580c'>भविष्यातील खेळाडूंसाठी आम्हाला मत द्या。</span><br><br><b>2030 पर्यंत:</b> जागतिक दर्जाची क्रीडा संकुले असतील, मुंबईतून ऑलिम्पिक विजेते घडतील。",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 403,
+            "slideNumber": 4,
+            "slideTitleEN": "Education",
+            "lineItem": "Holistic Development",
+            "story": "<b>आज:</b> फक्त पाठांतरावर भर आहे, मुलांच्या मनाचा विचार नाही。<br><br><span style='color: #ea580c'>सर्वांगीण विकासासाठी आम्हाला निवडून द्या。</span><br><br><b>2030 पर्यंत:</b> हॅपी स्कूल्स आणि समुपदेशक मुलांच्या मानसिक आरोग्याची काळजी घेतील。",
+            "status": "ready",
+            "videoDuration": 15
+        }
+    ]
+}

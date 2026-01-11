@@ -1,0 +1,31 @@
+{
+    "stories": [
+        {
+            "id": 301,
+            "slideNumber": 3,
+            "slideTitleEN": "Water Supply",
+            "lineItem": "24/7 Water",
+            "story": "<b>आज:</b> पाण्यासाठी वणवण आणि टँकर माफियांची दादागिरी आहे。<br><br><span style='color: #ea580c'>पाण्याच्या हक्कासाठी आम्हाला निवडून द्या。</span><br><br><b>2030 मध्ये:</b> प्रत्येक घरात २४ तास स्वच्छ पाणी येईल, मुंबई टँकरमुक्त होईल。",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 302,
+            "slideNumber": 3,
+            "slideTitleEN": "Water Supply",
+            "lineItem": "Rainwater Harvesting",
+            "story": "<b>आज:</b> पावसाचे पाणी वाया जाते आणि उन्हाळ्यात पाणी नसते。<br><br><span style='color: #ea580c'>शाश्वत विकासासाठी आम्हाला मत द्या。</span><br><br><b>2030 मध्ये:</b> रेन वॉटर हार्वेस्टिंगमुळे सोसायट्या स्वयंपूर्ण होतील。",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 303,
+            "slideNumber": 3,
+            "slideTitleEN": "Social Justice",
+            "lineItem": "Direct Benefits",
+            "story": "<b>आज:</b> योजनांचा लाभ घेण्यासाठी सरकारी कचेऱ्यांचे उंबरठे झिजवावे लागतात。<br><br><span style='color: #ea580c'>न्यायासाठी आम्हाला निवडून द्या。</span><br><br><b>2030 मध्ये:</b> मदत थेट गरजूंच्या बँक खात्यात जमा होईल, मध्यस्थ हद्दपार होतील。",
+            "status": "ready",
+            "videoDuration": 15
+        }
+    ]
+}

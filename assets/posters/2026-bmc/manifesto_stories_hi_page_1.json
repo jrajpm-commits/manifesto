@@ -1,0 +1,22 @@
+{
+    "stories": [
+        {
+            "id": 101,
+            "slideNumber": 1,
+            "slideTitleEN": "MISSION 2026",
+            "lineItem": "Vision - Slum Transformation",
+            "story": "<b>आज:</b> दीपक खुली नालियों और गंदगी के बीच जीने को मजबूर है。<br><br><span style='color: #ea580c'>बदलाव के लिए हमें चुनें।</span><br><br><b>2030 तक:</b> उसे पक्की सड़क और सफाई मिलेगी। हम उसे सम्मान से जीने का हक देंगे。",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 102,
+            "slideNumber": 1,
+            "slideTitleEN": "MISSION 2026",
+            "lineItem": "Vision - Global City",
+            "story": "<b>आज:</b> प्रिया को खिड़की से सिर्फ धुंध और प्रदूषण दिखता है。<br><br><span style='color: #ea580c'>स्वच्छ हवा के लिए हमें वोट दें।</span><br><br><b>2030 तक:</b> आसमान साफ होगा और मुंबई दुनिया के बड़े शहरों को टक्कर देगी。",
+            "status": "ready",
+            "videoDuration": 15
+        }
+    ]
+}

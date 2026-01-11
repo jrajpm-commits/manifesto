@@ -1,0 +1,274 @@
+{
+    "stories": [
+        {
+            "id": 101,
+            "slideNumber": 1,
+            "slideTitleEN": "MISSION 2026",
+            "lineItem": "Vision - The Slum Makeover",
+            "story": "Deepak, living in a dense slum, wakes up to a clean, paved lane instead of an open gutter. The 'Clean & Green' mission has finally reached the last mile, giving dignity to the poorest citizens.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 102,
+            "slideNumber": 1,
+            "slideTitleEN": "MISSION 2026",
+            "lineItem": "Vision - The Global City",
+            "story": "Priya, a corporate employee, looks out her office window. The skyline isn't hazy with smog anymore. Mumbai now rivals global cities in cleanliness, making every tax-paying citizen proud.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 103,
+            "slideNumber": 1,
+            "slideTitleEN": "MISSION 2026",
+            "lineItem": "Vision - The Cynic Believes",
+            "story": "Mr. Khan, a retired teacher who gave up on the system, sees the municipal truck actually collecting waste on time every day. For the first time in decades, he feels his vote mattered.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 104,
+            "slideNumber": 1,
+            "slideTitleEN": "MISSION 2026",
+            "lineItem": "Vision - Youth Leadership",
+            "story": "College students aren't just protesting; they are partnering with the BMC. A group of young volunteers paints a flyover wall, turning a dark corner into a vibrant art piece.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 105,
+            "slideNumber": 1,
+            "slideTitleEN": "MISSION 2026",
+            "lineItem": "Vision - Healthier Future",
+            "story": "Little Aarav used to cough every winter. With the new dust control norms strictly enforced under Mission 2026, he plays football outside, breathing clean air.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 301,
+            "slideNumber": 3,
+            "slideTitleEN": "Water Supply / Social Justice",
+            "lineItem": "Water - The End of Tanker Mafia",
+            "story": "Sunita, a domestic worker, no longer pays half her salary to the water tanker mafia. The new pipeline brings clean, legal water directly to her chawl 24/7.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 302,
+            "slideNumber": 3,
+            "slideTitleEN": "Water Supply / Social Justice",
+            "lineItem": "Water - Rainwater Harvesting",
+            "story": "A housing society in the suburbs faced dry taps every summer. After adopting the BMC's subsidized rainwater harvesting, they are now water-surplus and self-reliant.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 303,
+            "slideNumber": 3,
+            "slideTitleEN": "Water Supply / Social Justice",
+            "lineItem": "Social Justice - The Widow's Pension",
+            "story": "Rukmini, an elderly widow with no support, receives her pension directly in her bank account without bribing anyone, thanks to the digitized social justice department.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 304,
+            "slideNumber": 3,
+            "slideTitleEN": "Water Supply / Social Justice",
+            "lineItem": "Social Justice - The Student's Aid",
+            "story": "Rahul, a brilliant student from a BPL family, almost quit engineering. The prompt disbursement of the municipal scholarship fund saved his career and his family's future.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 305,
+            "slideNumber": 3,
+            "slideTitleEN": "Water Supply / Social Justice",
+            "lineItem": "Water - Quality Check",
+            "story": "Illness was common in Ward C due to contaminated water. With new real-time quality sensors, the contamination was fixed in hours, saving hundreds from typhoid.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 401,
+            "slideNumber": 4,
+            "slideTitleEN": "Education Department",
+            "lineItem": "Education - The AI Classroom",
+            "story": "In a municipal school, students who had never seen a computer are now learning coding via AI tablets. The digital divide is being bridged, one child at a time.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 402,
+            "slideNumber": 4,
+            "slideTitleEN": "Education Department",
+            "lineItem": "Education - Sports Champion",
+            "story": "Today: Poverty forces sporting talent to fade away in the slums. By 2030: Kavita, daughter of a vegetable vendor, trains on a world-class synthetic track. She is a future gold medalist.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 403,
+            "slideNumber": 4,
+            "slideTitleEN": "Education Department",
+            "lineItem": "Education - Mental Health",
+            "story": "Today: Exam pressure and depression are silent killers among youth. By 2030: The new 'Happy School' initiative gives students a safe space to talk and heal.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 404,
+            "slideNumber": 4,
+            "slideTitleEN": "Education Department",
+            "lineItem": "Education - Skill Development",
+            "story": "Today: Unemployed youth lose hope and dignity. By 2030: Dropouts are returning. Vocational centers are turning them into skilled professionals with a life of dignity.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 405,
+            "slideNumber": 4,
+            "slideTitleEN": "Education Department",
+            "lineItem": "Education - Safe Transport",
+            "story": "Today: Parents fear for their child's safety on the way to school. By 2030: The new free, GPS-tracked school bus service ensures every child reaches school safely.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 501,
+            "slideNumber": 5,
+            "slideTitleEN": "Solid Waste Management",
+            "lineItem": "Waste - Zero Garbage Street",
+            "story": "Today: Garbage piles rot on street corners, spreading disease. By 2030: That corner is a clean seating area. 100% segregation has eliminated open dumpsters.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 502,
+            "slideNumber": 5,
+            "slideTitleEN": "Solid Waste Management",
+            "lineItem": "Waste - Dignity for Ragpickers",
+            "story": "Today: Ragpickers scavenge in filth, invisible and ignored. Elect us to bring change. By 2030: Suresh is a uniformed 'Recycling Assistant' working with dignity and safety gear.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 503,
+            "slideNumber": 5,
+            "slideTitleEN": "Solid Waste Management",
+            "lineItem": "Waste - Waste to Energy",
+            "story": "Today: Waste is just a problem to be dumped. Vote for progress. By 2030: The lights in the park are powered by neighborhood waste. We prove trash is a resource.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 504,
+            "slideNumber": 5,
+            "slideTitleEN": "Solid Waste Management",
+            "lineItem": "Waste - Composting Society",
+            "story": "Today: Housing societies struggle with high maintenance. Elect us to fix this. By 2030: They reduce bills by composting and selling fertilizer, turning cost into profit.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 505,
+            "slideNumber": 5,
+            "slideTitleEN": "Solid Waste Management",
+            "lineItem": "Waste - Plastic Free Market",
+            "story": "Today: Plastic chokes our drains, causing floods. Vote for a cleaner city. By 2030: The market is plastic-free, drains are clear, and the city is safe.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 701,
+            "slideNumber": 7,
+            "slideTitleEN": "Roads / Pollution",
+            "lineItem": "Roads - The Delivery Hero",
+            "story": "Today: Back-breaking rides on pothole-ridden roads. By 2030: Ramesh, a delivery partner, rides on smooth concrete roads and goes home without pain.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 702,
+            "slideNumber": 7,
+            "slideTitleEN": "Roads / Pollution",
+            "lineItem": "Pollution - The EV Auto",
+            "story": "Today: Choking on smoke and spending all earnings on fuel. By 2030: An auto driver switches to EV. He saves money, earns more, and breathes clean air.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 703,
+            "slideNumber": 7,
+            "slideTitleEN": "Roads / Pollution",
+            "lineItem": "Roads - Walkable Footpaths",
+            "story": "Today: Seniors cannot walk safely on encroached footpaths. By 2030: Mrs. D'Souza, 70, walks to church safely on wide, clear footpaths designed for people.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 704,
+            "slideNumber": 7,
+            "slideTitleEN": "Roads / Pollution",
+            "lineItem": "Pollution - Construction Control",
+            "story": "Today: Waking up to dust layers on furniture from construction. By 2030: Sites are covered and use sprinklers. Neighbors breathe easy.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 705,
+            "slideNumber": 7,
+            "slideTitleEN": "Roads / Pollution",
+            "lineItem": "Roads - Traffic Management",
+            "story": "Today: Hours wasted in traffic, missing family time. By 2030: Smart signals reduce wait time. A commuter saves 20 minutes daily to play with his children.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 901,
+            "slideNumber": 9,
+            "slideTitleEN": "Gardens / Fire / BEST",
+            "lineItem": "Gardens - Safe Spaces",
+            "story": "Today: Women fear walking alone after dark. By 2030: A working mother jogs at 8 PM without fear. Lights and CCTV have reclaimed public spaces.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 902,
+            "slideNumber": 9,
+            "slideTitleEN": "Gardens / Fire / BEST",
+            "lineItem": "BEST - The AC Commute",
+            "story": "Today: Sweating in crowded buses, stuck in traffic. By 2030: An office clerk steps into a cool AC bus. It's affordable, so he leaves his bike at home.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 903,
+            "slideNumber": 9,
+            "slideTitleEN": "Gardens / Fire / BEST",
+            "lineItem": "Fire - Slum Safety",
+            "story": "Today: Fire trucks stuck in traffic while homes burn. By 2030: 'Fire Bikes' navigate narrow lanes in minutes, saving a family's home.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 904,
+            "slideNumber": 9,
+            "slideTitleEN": "Gardens / Fire / BEST",
+            "lineItem": "Gardens - Senior Citizens",
+            "story": "Today: Elderly sit at home, lonely and isolated. By 2030: The new 'Nana-Nani Park' is a community center where they find companionship and health.",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 905,
+            "slideNumber": 9,
+            "slideTitleEN": "Gardens / Fire / BEST",
+            "lineItem": "BEST - Last Mile",
+            "story": "Today: The struggle to reach home from the station. By 2030: Frequent mini-buses provide seamless last-mile connectivity for every commuter.",
+            "status": "ready",
+            "videoDuration": 15
+        }
+    ]
+}

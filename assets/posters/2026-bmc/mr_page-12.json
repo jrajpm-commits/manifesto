@@ -1,0 +1,494 @@
+{
+  "stories": [
+    {
+      "id": 120001,
+      "slideNumber": 12,
+      "slideTitleEN": "Solid Waste Management",
+      "lineItem": "Waste-free City",
+      "story": "<b>आज:</b> रस्त्यांवर कचऱ्याचे ढीग, धूळ आणि दुर्गंधी.<br><br><span style='color:#ea580c'>स्वच्छ, शाश्वत आणि ज्ञानसमृद्ध मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 मध्ये:</b> आधुनिक तंत्रज्ञानाने कचरामुक्त व स्वच्छ मुंबई.",
+      "status": "ready",
+      "videoDuration": 15,
+      "mediaGuidance": {
+        "musicStyle": "European documentary piano with soft ambient pad",
+        "visualDirection": "Overflowing garbage → mechanized collection → clean streets",
+        "referenceSearchHints": [
+          "search: waste management transformation documentary",
+          "search: clean city before after b-roll",
+          "search: european documentary background music"
+        ]
+      },
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "problem-solution"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "policy-civic"
+        }
+      }
+    },
+    {
+      "id": 120002,
+      "slideNumber": 12,
+      "slideTitleEN": "Solid Waste Management",
+      "lineItem": "Waste Segregation",
+      "story": "<b>आज:</b> कचरा वर्गीकरण नसल्याने पुनर्वापर अडतो.<br><br><span style='color:#ea580c'>स्वच्छ, शाश्वत आणि ज्ञानसमृद्ध मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 मध्ये:</b> आंतरराष्ट्रीय दर्जाचे कचरा वर्गीकरण संपूर्ण शहरात.",
+      "status": "ready",
+      "videoDuration": 14,
+      "mediaGuidance": {
+        "musicStyle": "Minimal ambient with light rhythmic clarity",
+        "visualDirection": "Household segregation → color-coded bins → processing plants",
+        "referenceSearchHints": [
+          "search: waste segregation city documentary",
+          "search: recycling process explainer video",
+          "search: minimal ambient background music"
+        ]
+      },
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "problem-solution"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "policy-civic"
+        }
+      }
+    },
+    {
+      "id": 120003,
+      "slideNumber": 12,
+      "slideTitleEN": "Solid Waste Management",
+      "lineItem": "Waste to Energy",
+      "story": "<b>आज:</b> कचरा फक्त डम्पिंग ग्राउंडवर जातो.<br><br><span style='color:#ea580c'>स्वच्छ, शाश्वत आणि ज्ञानसमृद्ध मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 मध्ये:</b> Waste-to-Energy प्रकल्पांमुळे ऊर्जा निर्मिती.",
+      "status": "ready",
+      "videoDuration": 15,
+      "mediaGuidance": {
+        "musicStyle": "Soft cinematic build, sustainability tone",
+        "visualDirection": "Landfill shots → waste processing → power generation visuals",
+        "referenceSearchHints": [
+          "search: waste to energy plant documentary",
+          "search: sustainable energy city video",
+          "search: cinematic sustainability music"
+        ]
+      },
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "problem-solution"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "policy-civic"
+        }
+      }
+    },
+    {
+      "id": 120004,
+      "slideNumber": 12,
+      "slideTitleEN": "Solid Waste Management",
+      "lineItem": "Legacy Waste Clearance",
+      "story": "<b>आज:</b> जुना कचरा वर्षानुवर्षे साचलेला.<br><br><span style='color:#ea580c'>स्वच्छ, शाश्वत आणि ज्ञानसमृद्ध मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 मध्ये:</b> वैज्ञानिक पद्धतीने जुना कचरा नष्ट.",
+      "status": "ready",
+      "videoDuration": 14,
+      "mediaGuidance": {
+        "musicStyle": "Calm serious documentary underscore",
+        "visualDirection": "Old dumps → remediation work → reclaimed land",
+        "referenceSearchHints": [
+          "search: landfill remediation documentary",
+          "search: legacy waste cleanup india",
+          "search: documentary underscore music"
+        ]
+      },
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "problem-solution"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "policy-civic"
+        }
+      }
+    },
+    {
+      "id": 120005,
+      "slideNumber": 12,
+      "slideTitleEN": "Solid Waste Management",
+      "lineItem": "Free Garbage Collection",
+      "story": "<b>आज:</b> सोसायट्यांमध्ये कचरा उचल अनियमित.<br><br><span style='color:#ea580c'>स्वच्छ, शाश्वत आणि ज्ञानसमृद्ध मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 मध्ये:</b> मोफत आणि नियमित कचरा उचल सेवा.",
+      "status": "ready",
+      "videoDuration": 15,
+      "mediaGuidance": {
+        "musicStyle": "Warm civic instrumental, light acoustic",
+        "visualDirection": "Housing societies → scheduled pickups → clean premises",
+        "referenceSearchHints": [
+          "search: municipal waste collection b-roll",
+          "search: housing society cleanliness video",
+          "search: warm acoustic instrumental"
+        ]
+      },
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "problem-solution"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "policy-civic"
+        }
+      }
+    },
+    {
+      "id": 120006,
+      "slideNumber": 12,
+      "slideTitleEN": "Solid Waste Management",
+      "lineItem": "Recycling & Reuse",
+      "story": "<b>आज:</b> कचऱ्यापासून मिळणारी साधने वाया जातात.<br><br><span style='color:#ea580c'>स्वच्छ, शाश्वत आणि ज्ञानसमृद्ध मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 मध्ये:</b> पुनर्वापरातून संसाधनांची निर्मिती.",
+      "status": "ready",
+      "videoDuration": 14,
+      "mediaGuidance": {
+        "musicStyle": "Neutral eco-ambient instrumental",
+        "visualDirection": "Recycling lines → reused products → circular economy visuals",
+        "referenceSearchHints": [
+          "search: recycling economy documentary",
+          "search: circular economy visuals",
+          "search: eco ambient background music"
+        ]
+      },
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "problem-solution"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "policy-civic"
+        }
+      }
+    },
+    {
+      "id": 120007,
+      "slideNumber": 12,
+      "slideTitleEN": "Solid Waste Management",
+      "lineItem": "Inclusive Toilets",
+      "story": "<b>आज:</b> महिला व दिव्यांगांसाठी स्वच्छतागृहे अपुरी.<br><br><span style='color:#ea580c'>स्वच्छ, शाश्वत आणि ज्ञानसमृद्ध मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 मध्ये:</b> सुलभ, सुरक्षित आणि स्वच्छ सार्वजनिक स्वच्छतागृहे.",
+      "status": "ready",
+      "videoDuration": 15,
+      "mediaGuidance": {
+        "musicStyle": "Soft human-centric piano",
+        "visualDirection": "Public toilets before after → accessibility signage",
+        "referenceSearchHints": [
+          "search: accessible public toilets india",
+          "search: inclusive infrastructure documentary",
+          "search: soft piano human documentary"
+        ]
+      },
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "problem-solution"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "policy-civic"
+        }
+      }
+    },
+    {
+      "id": 120008,
+      "slideNumber": 12,
+      "slideTitleEN": "Solid Waste Management",
+      "lineItem": "IT-based Waste Planning",
+      "story": "<b>आज:</b> दीर्घकालीन नियोजनाचा अभाव.<br><br><span style='color:#ea580c'>स्वच्छ, शाश्वत आणि ज्ञानसमृद्ध मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 मध्ये:</b> IT आधारित कचरा व्यवस्थापन योजना.",
+      "status": "ready",
+      "videoDuration": 14,
+      "mediaGuidance": {
+        "musicStyle": "Modern tech documentary ambient",
+        "visualDirection": "Dashboards, maps, sensors → optimized waste routes",
+        "referenceSearchHints": [
+          "search: smart waste management system video",
+          "search: city data dashboard documentary",
+          "search: modern tech ambient music"
+        ]
+      },
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "problem-solution"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "policy-civic"
+        }
+      }
+    },
+    {
+      "id": 120009,
+      "slideNumber": 12,
+      "slideTitleEN": "Education",
+      "lineItem": "Reopen BMC Schools",
+      "story": "<b>आज:</b> अनेक BMC शाळा बंद पडल्या.<br><br><span style='color:#ea580c'>स्वच्छ, शाश्वत आणि ज्ञानसमृद्ध मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 मध्ये:</b> बंद शाळा पुन्हा सुरू करून शिक्षणाचा हक्क.",
+      "status": "ready",
+      "videoDuration": 15,
+      "mediaGuidance": {
+        "musicStyle": "Warm hopeful instrumental, light strings",
+        "visualDirection": "Closed school gates → reopening → children entering",
+        "referenceSearchHints": [
+          "search: government school reopening india",
+          "search: education transformation documentary",
+          "search: hopeful instrumental background music"
+        ]
+      },
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "problem-solution"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "policy-civic"
+        }
+      }
+    },
+    {
+      "id": 120010,
+      "slideNumber": 12,
+      "slideTitleEN": "Education",
+      "lineItem": "Modern Infrastructure",
+      "story": "<b>आज:</b> शाळा इमारती आणि सुविधा जुजबी.<br><br><span style='color:#ea580c'>स्वच्छ, शाश्वत आणि ज्ञानसमृद्ध मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 मध्ये:</b> आधुनिक इमारती व शैक्षणिक सुविधा.",
+      "status": "ready",
+      "videoDuration": 14,
+      "mediaGuidance": {
+        "musicStyle": "Clean modern piano underscore",
+        "visualDirection": "Old classrooms → smart classrooms → labs",
+        "referenceSearchHints": [
+          "search: smart classroom india",
+          "search: school infrastructure upgrade video",
+          "search: modern piano documentary music"
+        ]
+      },
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "problem-solution"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "policy-civic"
+        }
+      }
+    },
+    {
+      "id": 120011,
+      "slideNumber": 12,
+      "slideTitleEN": "Education",
+      "lineItem": "AI & Computer Education",
+      "story": "<b>आज:</b> डिजिटल शिक्षणाचा अभाव.<br><br><span style='color:#ea580c'>स्वच्छ, शाश्वत आणि ज्ञानसमृद्ध मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 मध्ये:</b> संगणक व AI आधारित शिक्षण.",
+      "status": "ready",
+      "videoDuration": 15,
+      "mediaGuidance": {
+        "musicStyle": "Light tech ambient with optimistic tone",
+        "visualDirection": "Students coding → AI visuals → future careers",
+        "referenceSearchHints": [
+          "search: ai education india students",
+          "search: computer education classroom",
+          "search: tech ambient background music"
+        ]
+      },
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "problem-solution"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "policy-civic"
+        }
+      }
+    },
+    {
+      "id": 120012,
+      "slideNumber": 12,
+      "slideTitleEN": "Education",
+      "lineItem": "Teacher Recruitment",
+      "story": "<b>आज:</b> प्रशिक्षित शिक्षकांची कमतरता.<br><br><span style='color:#ea580c'>स्वच्छ, शाश्वत आणि ज्ञानसमृद्ध मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 मध्ये:</b> प्रशिक्षित शिक्षकांची भरती.",
+      "status": "ready",
+      "videoDuration": 14,
+      "mediaGuidance": {
+        "musicStyle": "Serious but hopeful civic instrumental",
+        "visualDirection": "Teacher training → classroom engagement",
+        "referenceSearchHints": [
+          "search: teacher training india",
+          "search: classroom teaching documentary",
+          "search: civic instrumental background music"
+        ]
+      },
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "problem-solution"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "policy-civic"
+        }
+      }
+    },
+    {
+      "id": 120013,
+      "slideNumber": 12,
+      "slideTitleEN": "Education",
+      "lineItem": "Free Transport & Nutrition",
+      "story": "<b>आज:</b> विद्यार्थ्यांना शाळेत पोहोचणे आणि पोषण कठीण.<br><br><span style='color:#ea580c'>स्वच्छ, शाश्वत आणि ज्ञानसमृद्ध मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 मध्ये:</b> मोफत बस सेवा व पोषण आहार.",
+      "status": "ready",
+      "videoDuration": 15,
+      "mediaGuidance": {
+        "musicStyle": "Warm reassuring acoustic instrumental",
+        "visualDirection": "School buses → mid-day meals → healthy students",
+        "referenceSearchHints": [
+          "search: school bus service government",
+          "search: mid day meal scheme documentary",
+          "search: warm acoustic instrumental"
+        ]
+      },
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "problem-solution"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "policy-civic"
+        }
+      }
+    },
+    {
+      "id": 120014,
+      "slideNumber": 12,
+      "slideTitleEN": "Education",
+      "lineItem": "Counsellors & Child Psychologists",
+      "story": "<b>आज:</b> विद्यार्थ्यांच्या मानसिक आरोग्याकडे दुर्लक्ष.<br><br><span style='color:#ea580c'>स्वच्छ, शाश्वत आणि ज्ञानसमृद्ध मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 मध्ये:</b> प्रत्येक शाळेत समुपदेशक व बाल मानसोपचार तज्ञ.",
+      "status": "ready",
+      "videoDuration": 16,
+      "mediaGuidance": {
+        "musicStyle": "Gentle supportive piano ambient",
+        "visualDirection": "Counselling sessions → confident children",
+        "referenceSearchHints": [
+          "search: school counselling india",
+          "search: child mental health education",
+          "search: gentle piano ambient"
+        ]
+      },
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "problem-solution"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "policy-civic"
+        }
+      }
+    }
+  ]
+}

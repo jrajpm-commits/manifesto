@@ -1,0 +1,134 @@
+{
+  "stories": [
+    {
+      "id": 70001,
+      "slideNumber": 7,
+      "slideTitleEN": "BEST Transport",
+      "lineItem": "Bus Fleet Expansion",
+      "story": "<b>आज:</b> बस कमी असल्याने गर्दी, विलंब आणि त्रास वाढतो.<br><br><span style='color:#ea580c'>मजबूत सार्वजनिक वाहतुकीसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> ६,००० बससह मजबूत व विश्वासार्ह BEST सेवा.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 70002,
+      "slideNumber": 7,
+      "slideTitleEN": "BEST Transport",
+      "lineItem": "No Privatization",
+      "story": "<b>आज:</b> खाजगीकरणामुळे भाडेवाढ आणि सेवेत तडजोड होण्याची भीती.<br><br><span style='color:#ea580c'>मजबूत सार्वजनिक वाहतुकीसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> BEST पूर्णपणे सार्वजनिक नियंत्रणात आणि लोकहितासाठी.",
+      "status": "ready",
+      "videoDuration": 14,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 70003,
+      "slideNumber": 7,
+      "slideTitleEN": "BEST Transport",
+      "lineItem": "Employee Dues Clearance",
+      "story": "<b>आज:</b> कर्मचारी व निवृत्त कर्मचाऱ्यांच्या प्रलंबित सेवा-हक्कांवर अन्याय.<br><br><span style='color:#ea580c'>मजबूत सार्वजनिक वाहतुकीसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> सर्व प्रलंबित सेवापूर्ती प्रकरणांचा वेळेत निपटारा.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 70004,
+      "slideNumber": 7,
+      "slideTitleEN": "BEST Transport",
+      "lineItem": "Last Mile Connectivity",
+      "story": "<b>आज:</b> मेट्रो स्थानकांनंतर प्रवासासाठी अडचण.<br><br><span style='color:#ea580c'>मजबूत सार्वजनिक वाहतुकीसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> प्रत्येक मेट्रो स्थानकावर फीडर बस सेवा.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 70005,
+      "slideNumber": 7,
+      "slideTitleEN": "BEST Transport",
+      "lineItem": "Unified Transport Authority",
+      "story": "<b>आज:</b> वाहतुकीचे नियोजन विस्कळीत आणि जबाबदारी अस्पष्ट.<br><br><span style='color:#ea580c'>मजबूत सार्वजनिक वाहतुकीसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> मुंबई वाहतुकीचे नियोजन BEST कडे केंद्रीत.",
+      "status": "ready",
+      "videoDuration": 16,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "emotional"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    }
+  ]
+}

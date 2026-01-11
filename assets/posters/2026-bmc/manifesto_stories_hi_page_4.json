@@ -1,0 +1,31 @@
+{
+    "stories": [
+        {
+            "id": 401,
+            "slideNumber": 4,
+            "slideTitleEN": "Education",
+            "lineItem": "Smart Schools",
+            "story": "<b>आज:</b> बीएमसी स्कूलों में पुरानी सुविधाएं हैं, बच्चे पिछड़ रहे हैं।<br><br><span style='color: #ea580c'>उज्ज्वल भविष्य के लिए हमें चुनें।</span><br><br><b>2030 तक:</b> हर क्लासरूम डिजिटल होगा, बच्चे AI और कोडिंग सीखेंगे।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 402,
+            "slideNumber": 4,
+            "slideTitleEN": "Education",
+            "lineItem": "Sports Infrastructure",
+            "story": "<b>आज:</b> खेल के मैदान नहीं हैं, प्रतिभा गलियों में दम तोड़ रही है।<br><br><span style='color: #ea580c'>चैंपियंस के लिए हमें वोट दें।</span><br><br><b>2030 तक:</b> वर्ल्ड क्लास स्पोर्ट्स कॉम्प्लेक्स होंगे, मुंबई से ओलंपिक खिलाड़ी निकलेंगे।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 403,
+            "slideNumber": 4,
+            "slideTitleEN": "Education",
+            "lineItem": "Holistic Development",
+            "story": "<b>आज:</b> सिर्फ रट्टा मारने पर जोर है, मानसिक विकास पर ध्यान नहीं।<br><br><span style='color: #ea580c'>सर्वांगीण विकास के लिए हमें चुनें।</span><br><br><b>2030 तक:</b> हैप्पी स्कूल और काउंसलर्स बच्चों के मानसिक स्वास्थ्य का ख्याल रखेंगे।",
+            "status": "ready",
+            "videoDuration": 15
+        }
+    ]
+}

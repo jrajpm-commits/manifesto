@@ -1,0 +1,22 @@
+{
+    "stories": [
+        {
+            "id": 701,
+            "slideNumber": 7,
+            "slideTitleEN": "Roads",
+            "lineItem": "Roads - Pothole Free",
+            "story": "<b>आज:</b> रमेश गड्ढों वाली सड़कों पर कमर तोड़ सफर करता है।<br><br><span style='color: #ea580c'>अच्छी सड़कों के लिए हमें चुनें।</span><br><br><b>2030 तक:</b> सड़कें गड्ढा-मुक्त होंगी और सफर आसान होगा।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 702,
+            "slideNumber": 7,
+            "slideTitleEN": "Pollution",
+            "lineItem": "Pollution - EV Auto",
+            "story": "<b>आज:</b> ऑटो चालक ईंधन के खर्चे से परेशान है।<br><br><span style='color: #ea580c'>प्रगति के लिए हमें वोट दें।</span><br><br><b>2030 तक:</b> इलेक्ट्रिक रिक्शा से वह ज्यादा कमाएगा और हवा साफ रखेगा।",
+            "status": "ready",
+            "videoDuration": 15
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+Based on the content you provided, here is a tabulated summary. Since the "files" appear to be images of presentation slides (mostly in Thai with some English headings), the slide numbers are assumed from the file names (e.g., page_5 = Slide 5). The content is often abbreviated, symbolic, or contains placeholders, so some interpretation and filling in of gaps is required.
+
+Note: Some slides (like page_12) are purely graphical/title slides with minimal text. Some lines are repetitive or appear to be template text (e.g., "ฟรี พูชา เหล็ก ปริธน พูชา อะบกร"). "Drama stories" are creative interpretations based on the potential real-world implications of each administrative point.
+
+Here is the table:
+
+Slide #	Slide Title (EN)	Slide Title (TH)	Key Line Items / Bullet Points (Interpreted/Translated)	Attractive Drama Story Ideas (Per Line)
+1	MISSION 2026	MISSION 2026	1. Vision Statement: A cleaner, more beautiful, and efficiently managed Mumbai.
+2. Slogan: "Together, let's make Mumbai clean, green, and shining."	1. The Phoenix Transformation: A weary citizen, disillusioned by years of neglect, becomes the unlikely leader of a city-wide "Clean & Green" movement, inspiring millions.
+2. Slogan to Action: A rival politician scoffs at the slogan as empty words, but is forced into a humbling public service project that makes him believe in it.
+3	Water Supply / Social Justice	ผิษฐศ - งบประมาณ	1. Annual water supply project plans & budget allocations from 2023-2029.
+2. Rainwater Harvesting initiatives promoted.
+3. Annual budget allocations for Social Justice schemes (2025-2032).	1. The Thirsty Summer: A drought hits. The official who fast-tracked rainwater harvesting becomes a hero in one neighborhood, while another area without it faces a crisis, creating social tension.
+2. The Allocated Rupee: A single mother fights a Kafkaesque bureaucracy to access a social justice fund, her journey exposing both corruption and dedicated civil servants.
+4	Education Department	JiaRai - Riaru yuri	1. Modernize BMC schools with smart classes & AI tools.
+2. Focus on holistic child development, mental health, and activity-based learning.
+3. Upgrade sports facilities and infrastructure.
+4. Provide tablets/e-content and career counseling.	1. The AI Tutor: In a crowded municipal school, a shy student discovers an AI learning module, unlocking genius-level potential and challenging the system's expectations.
+2. The Counselor's Case: A student guidance counselor uncovers a hidden talent in a troubled "problem student," steering them from dropout to district-level sports champion.
+5	Solid Waste Management	ภายในอเนก - กิตติ	1. Achieve 100% waste segregation at source.
+2. Expand Waste-to-Energy plants.
+3. Scientific processing of all waste; zero waste to landfills.
+4. Treat sewage and reuse treated water.
+5. Process construction waste scientifically.	1. Segregation Street: A feisty elderly woman takes on her entire apartment building to enforce waste segregation, leading to comedic conflicts but ultimately transforming the community.
+2. The Landfill Guardian: A man who scavenges a living from the giant landfill fears its closure due to the new WtE plant, forcing him to choose between protesting progress or finding a new purpose.
+7	Roads Dept / Pollution Free Mumbai	Șășa - Șuvara țea și șeș	Roads: 1. Improve roads, footpaths, and traffic systems.
+2. Build and repair bridges.
+3. Install modern, intelligent street lighting (IoT).
+Pollution Free: 1. Promote electric vehicles (EVs) and infrastructure.
+2. "Zero Waste Mumbai 2030" goal.
+3. Increase green cover and public transport.	1. The Pothole Prophet: A cynical taxi driver documents every pothole on his route. His viral blog accidentally becomes the city's most reliable road repair tracker, embarrassing the authorities into action.
+2. EV Rebellion: A young auto-rickshaw driver risks everything to buy an electric vehicle, facing resistance from his diesel-dependent union and becoming a pioneer in the process.
+9	Gardens / Fire Brigade / BEST (Bus)	กิจภา - ใส่พูชา ขาลี	Gardens: 1. Install CCTV, improve safety & lighting.
+2. Develop theme-based gardens (Butterfly, Medicinal).
+Fire Brigade: 1. Increase fire stations & modernize equipment.
+2. Community fire safety training.
+BEST: 1. Augment electric bus fleet.
+2. Improve passenger services and facilities.	1. Garden of Secrets: A newly installed CCTV in a park accidentally captures a clue to a cold case, turning the humble garden keeper into an amateur sleuth.
+2. The First Responder: A new fire station in a congested slum area is tested on its first day when a massive fire breaks out, showcasing the heroism and challenges of urban firefighting.
+3. The Last Diesel Bus: A veteran bus driver, loved for his iconic old diesel bus, reluctantly trains on the new silent electric bus, grappling with change and legacy.
+12	MISSION 2026 (Graphic)	MISSION 2026	Visual title slide: "MISSION 2026 BMC facing man, facing car"	The Poster: The stark, bold "MISSION 2026" poster becomes a symbol. For some, it's a beacon of hope plastered on construction hoardings; for others, it's a target for graffiti and protest, representing the city's divided soul.
+Disclaimer: This table is an interpretation. The original slide content (from the image text) is often schematic, using code-switching, abbreviations, and placeholder-like text (e.g., the symbolic text on page_7). The "Drama Stories" are fictional narratives created to humanize the bureaucratic goals listed in the slides.

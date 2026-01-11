@@ -1,0 +1,186 @@
+{
+  "stories": [
+    {
+      "id": 100001,
+      "slideNumber": 10,
+      "slideTitleEN": "Pollution",
+      "lineItem": "Clean Air as Right",
+      "story": "<b>आज:</b> प्रदूषित हवेमुळे आजार वाढत आहेत.<br><br><span style='color:#ea580c'>स्वच्छ आणि निरोगी मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> स्वच्छ हवा प्रत्येक मुंबईकराचा हक्क असेल.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "concerned"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 100002,
+      "slideNumber": 10,
+      "slideTitleEN": "Pollution",
+      "lineItem": "Real-time AQI",
+      "story": "<b>आज:</b> हवेची गुणवत्ता किती खराब आहे हे कळत नाही.<br><br><span style='color:#ea580c'>स्वच्छ आणि निरोगी मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> रिअल-टाईम AQI मुळे त्वरित माहिती व कृती.",
+      "status": "ready",
+      "videoDuration": 14,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "concerned"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 100003,
+      "slideNumber": 10,
+      "slideTitleEN": "Pollution",
+      "lineItem": "Construction Dust Control",
+      "story": "<b>आज:</b> बांधकामामुळे धूळ आणि श्वसनाचे त्रास.<br><br><span style='color:#ea580c'>स्वच्छ आणि निरोगी मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> बांधकाम प्रदूषणावर कठोर नियंत्रण.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "concerned"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 100004,
+      "slideNumber": 10,
+      "slideTitleEN": "Pollution",
+      "lineItem": "Emergency Action on AQI",
+      "story": "<b>आज:</b> गंभीर प्रदूषणात उशिरा निर्णय होतात.<br><br><span style='color:#ea580c'>स्वच्छ आणि निरोगी मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> गंभीर AQI स्थितीत तातडीची कारवाई.",
+      "status": "ready",
+      "videoDuration": 14,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "concerned"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 100005,
+      "slideNumber": 10,
+      "slideTitleEN": "Pollution",
+      "lineItem": "Industrial Emissions",
+      "story": "<b>आज:</b> औद्योगिक धुरामुळे परिसर प्रदूषित.<br><br><span style='color:#ea580c'>स्वच्छ आणि निरोगी मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> औद्योगिक व व्यावसायिक धूर नियंत्रण.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "concerned"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 100006,
+      "slideNumber": 10,
+      "slideTitleEN": "Pollution",
+      "lineItem": "Green Mumbai 2030",
+      "story": "<b>आज:</b> हरित क्षेत्र कमी होत चालले आहे.<br><br><span style='color:#ea580c'>स्वच्छ आणि निरोगी मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> ग्रीन मुंबई 2030 अंतर्गत हरित क्षेत्र विस्तार.",
+      "status": "ready",
+      "videoDuration": 16,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "concerned"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 100007,
+      "slideNumber": 10,
+      "slideTitleEN": "Pollution",
+      "lineItem": "Transparency & Oversight",
+      "story": "<b>आज:</b> प्रदूषण नियंत्रणात पारदर्शकतेचा अभाव.<br><br><span style='color:#ea580c'>स्वच्छ आणि निरोगी मुंबईसाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> सार्वजनिक देखरेखीमुळे उत्तरदायित्व.",
+      "status": "ready",
+      "videoDuration": 14,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "concerned"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    }
+  ]
+}

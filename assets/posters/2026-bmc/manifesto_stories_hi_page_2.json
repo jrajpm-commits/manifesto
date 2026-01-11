@@ -1,0 +1,58 @@
+{
+    "stories": [
+        {
+            "id": 201,
+            "slideNumber": 2,
+            "slideTitleEN": "Health - Privatization",
+            "lineItem": "No Privatization",
+            "story": "<b>आज:</b> प्राइवेट अस्पतालों का भारी बिल भरने के लिए लोग गहने बेचने को मजबूर हैं।<br><br><span style='color: #ea580c'>सस्ती सेवा के लिए हमें चुनें।</span><br><br><b>2030 तक:</b> बीएमसी अस्पताल प्राइवेट से बेहतर होंगे, और इलाज मुफ्त होगा।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 202,
+            "slideNumber": 2,
+            "slideTitleEN": "Health - Universal Card",
+            "lineItem": "Health Card",
+            "story": "<b>आज:</b> गरीब आदमी को दवा और रोटी में से एक चुनना पड़ता है।<br><br><span style='color: #ea580c'>सुरक्षा के लिए हमें वोट दें।</span><br><br><b>2030 तक:</b> यूनिवर्सल हेल्थ कार्ड से हर दवा मुफ्त मिलेगी।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 203,
+            "slideNumber": 2,
+            "slideTitleEN": "Health - MRI/CT",
+            "lineItem": "MRI & Dialysis",
+            "story": "<b>आज:</b> MRI और डायलिसिस के लिए महीनों की वेटिंग लिस्ट है।<br><br><span style='color: #ea580c'>तेज इलाज के लिए हमें चुनें।</span><br><br><b>2030 तक:</b> हर वार्ड में स्कैनिंग सेंटर होंगे, तुरंत जांच होगी।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 204,
+            "slideNumber": 2,
+            "slideTitleEN": "Health - Beds",
+            "lineItem": "Real-time Beds",
+            "story": "<b>आज:</b> मरीज को लेकर परिजन एक अस्पताल से दूसरे अस्पताल भटकते हैं।<br><br><span style='color: #ea580c'>सुविधा के लिए हमें वोट दें।</span><br><br><b>2030 तक:</b> मोबाइल ऐप पर बेड की जानकारी मिलेगी, भटकना बंद होगा।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 205,
+            "slideNumber": 2,
+            "slideTitleEN": "Health - ICU/NICU",
+            "lineItem": "ICU & Incubators",
+            "story": "<b>आज:</b> इनक्यूबेटर की कमी से नवजात शिशुओं की जान खतरे में है।<br><br><span style='color: #ea580c'>जीवन रक्षा के लिए हमें चुनें।</span><br><br><b>2030 तक:</b> ICU और NICU की क्षमता दोगुनी होगी, हर जान बचेगी।",
+            "status": "ready",
+            "videoDuration": 15
+        },
+        {
+            "id": 206,
+            "slideNumber": 2,
+            "slideTitleEN": "Health - Mental Health",
+            "lineItem": "Mental Health",
+            "story": "<b>आज:</b> मानसिक तनाव को बीमारी नहीं माना जाता, इलाज मुश्किल है।<br><br><span style='color: #ea580c'>जागरूकता के लिए हमें वोट दें।</span><br><br><b>2030 तक:</b> सुसंगठित मानसिक स्वास्थ्य केंद्र हर किसी को सहारा देंगे।",
+            "status": "ready",
+            "videoDuration": 15
+        }
+    ]
+}

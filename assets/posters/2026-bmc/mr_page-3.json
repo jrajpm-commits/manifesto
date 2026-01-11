@@ -1,0 +1,290 @@
+{
+  "stories": [
+    {
+      "id": 30001,
+      "slideNumber": 3,
+      "slideTitleEN": "Public Facilities",
+      "lineItem": "Facility Information",
+      "story": "<b>आज:</b> आरोग्य केंद्रे, वाचनालये, उद्याने कुठे आहेत याची नागरिकांना माहिती मिळत नाही.<br><br><span style='color:#ea580c'>सक्षम आणि पारदर्शक प्रशासनासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> सर्व सार्वजनिक सुविधांची माहिती व सद्यस्थिती खुली आणि ऑनलाइन उपलब्ध.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "informative"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 30002,
+      "slideNumber": 3,
+      "slideTitleEN": "Public Facilities",
+      "lineItem": "Facility Condition",
+      "story": "<b>आज:</b> सुविधांची अवस्था खराब असून जबाबदारी निश्चित नाही.<br><br><span style='color:#ea580c'>सक्षम आणि पारदर्शक प्रशासनासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> सार्वजनिक देखरेखीमुळे सुविधा नीट आणि कार्यक्षम.",
+      "status": "ready",
+      "videoDuration": 14,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "informative"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 30003,
+      "slideNumber": 3,
+      "slideTitleEN": "Public Heritage",
+      "lineItem": "Leader Memorials",
+      "story": "<b>आज:</b> स्मारकांकडे दुर्लक्ष होते, इतिहास लोप पावतो.<br><br><span style='color:#ea580c'>सक्षम आणि पारदर्शक प्रशासनासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> स्मारकांचे संरक्षण आणि माहिती फलकांमुळे इतिहास जपला जाईल.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "informative"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 30004,
+      "slideNumber": 3,
+      "slideTitleEN": "Urban Planning",
+      "lineItem": "Ward Vision Plan",
+      "story": "<b>आज:</b> प्रभाग पातळीवर दीर्घकालीन नियोजनाचा अभाव.<br><br><span style='color:#ea580c'>सक्षम आणि पारदर्शक प्रशासनासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> प्रत्येक प्रभागासाठी ५ वर्षांचा स्पष्ट व्हिजन आराखडा.",
+      "status": "ready",
+      "videoDuration": 14,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "informative"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 30005,
+      "slideNumber": 3,
+      "slideTitleEN": "Youth Engagement",
+      "lineItem": "Youth Internship",
+      "story": "<b>आज:</b> तरुणांना धोरणनिर्मितीत संधी मिळत नाही.<br><br><span style='color:#ea580c'>सक्षम आणि पारदर्शक प्रशासनासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> इंटर्नशिपमुळे युवक थेट सार्वजनिक धोरणात सहभागी.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "informative"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 30006,
+      "slideNumber": 3,
+      "slideTitleEN": "Digital Governance",
+      "lineItem": "AI & Technology",
+      "story": "<b>आज:</b> नागरी सेवा मंद आणि अप्रभावी.<br><br><span style='color:#ea580c'>सक्षम आणि पारदर्शक प्रशासनासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> आधुनिक तंत्रज्ञान व AI मुळे सेवा जलद आणि पारदर्शक.",
+      "status": "ready",
+      "videoDuration": 16,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "informative"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 30007,
+      "slideNumber": 3,
+      "slideTitleEN": "Markets",
+      "lineItem": "Second BKC",
+      "story": "<b>आज:</b> व्यवसाय व रोजगार काही भागांपुरते मर्यादित.<br><br><span style='color:#ea580c'>सक्षम आणि पारदर्शक प्रशासनासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> परळ–लोअर परळ–माटुंगा पट्ट्यात दुसरे आर्थिक केंद्र.",
+      "status": "ready",
+      "videoDuration": 16,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "informative"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 30008,
+      "slideNumber": 3,
+      "slideTitleEN": "Markets",
+      "lineItem": "Modern Markets",
+      "story": "<b>आज:</b> जुने बाजार असुविधाजनक आणि असुरक्षित.<br><br><span style='color:#ea580c'>सक्षम आणि पारदर्शक प्रशासनासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> नवीन, आधुनिक आणि स्वच्छ बाजारपेठा.",
+      "status": "ready",
+      "videoDuration": 14,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "informative"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 30009,
+      "slideNumber": 3,
+      "slideTitleEN": "Markets",
+      "lineItem": "Market Redevelopment",
+      "story": "<b>आज:</b> जुने बाजार मोडकळीस आलेले.<br><br><span style='color:#ea580c'>सक्षम आणि पारदर्शक प्रशासनासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> उच्च FSI वापरून आधुनिक पुनर्विकास.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "informative"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 30010,
+      "slideNumber": 3,
+      "slideTitleEN": "Markets",
+      "lineItem": "Vendor Space",
+      "story": "<b>आज:</b> फेरीवाल्यांसाठी जागेचा अभाव.<br><br><span style='color:#ea580c'>सक्षम आणि पारदर्शक प्रशासनासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> नवीन बाजारांमध्ये परवडणारी व नियोजित जागा.",
+      "status": "ready",
+      "videoDuration": 15,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "informative"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    },
+    {
+      "id": 30011,
+      "slideNumber": 3,
+      "slideTitleEN": "Markets",
+      "lineItem": "DP 2034 Markets",
+      "story": "<b>आज:</b> किरकोळ बाजार नियोजनाचा अभाव.<br><br><span style='color:#ea580c'>सक्षम आणि पारदर्शक प्रशासनासाठी आम्हाला निवडून द्या.</span><br><br><b>2030 पर्यंत:</b> DP 2034 नुसार प्रत्येक विभागात किरकोळ बाजार.",
+      "status": "ready",
+      "videoDuration": 14,
+      "platformHints": {
+        "facebook": {
+          "hookSeconds": 3,
+          "captionStyle": "informative"
+        },
+        "instagram": {
+          "reelSafe": true,
+          "maxSeconds": 15
+        },
+        "youtube": {
+          "shorts": true,
+          "voicePace": "medium"
+        },
+        "linkedin": {
+          "tone": "civic-professional"
+        }
+      }
+    }
+  ]
+}
